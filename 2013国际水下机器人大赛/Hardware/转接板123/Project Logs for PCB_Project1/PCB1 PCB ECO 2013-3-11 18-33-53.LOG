@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=D3 Pin=Rt-2
+Removed Pin From Net: NetName=D3 Pin=temp-2
+Change Component Designator: OldDesignator= NewDesignator=ARDUINO
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=5.0 Pin=P4-2
+Added Pin To Net: NetName=D49 Pin=P4-5
+Added Pin To Net: NetName=D47 Pin=P4-6
+Added Pin To Net: NetName=PWM8 Pin=P4-7
+Added Pin To Net: NetName=PWM7 Pin=P4-8
+Added Pin To Net: NetName=D53 Pin=P4-9
+Added Pin To Net: NetName=D51 Pin=P4-10
+Added Pin To Net: NetName=D2 Pin=Rt-2
+Added Pin To Net: NetName=D2 Pin=temp-2
+Added Member To Class: ClassName=Sheet1 Member=Component ARDUINO 2560
+Added Member To Class: ClassName=Sheet1 Member=Component LED LED0
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component PRE Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component Rt Res2
+Added Member To Class: ClassName=Sheet1 Member=Component temp Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component U1 MAX3482
+Added Room: Name=Sheet1

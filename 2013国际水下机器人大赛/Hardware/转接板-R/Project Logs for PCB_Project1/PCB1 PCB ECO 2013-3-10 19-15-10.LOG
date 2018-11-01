@@ -1,0 +1,138 @@
+Added Component: Designator=6050(HDR1X4)
+Added Component: Designator=ARDUINO(ARDUINO)
+Added Component: Designator=LED(0805)
+Added Component: Designator=P1(HDR2X5)
+Added Component: Designator=P2(HDR2X5)
+Added Component: Designator=P3(HDR2X5)
+Added Component: Designator=P4(HDR2X5)
+Added Component: Designator=P5(HDR1X2)
+Added Component: Designator=PRE(HDR1X2)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=Rtemp(0805)
+Added Component: Designator=temp(HDR1X3)
+Added Pin To Net: NetName=3.3 Pin=6050-4
+Added Pin To Net: NetName=3.3 Pin=ARDUINO-4
+Added Pin To Net: NetName=3.3 Pin=R1-1
+Added Net: Name=3.3
+Added Pin To Net: NetName=5.0 Pin=ARDUINO-5
+Added Pin To Net: NetName=5.0 Pin=P1-2
+Added Pin To Net: NetName=5.0 Pin=P2-2
+Added Pin To Net: NetName=5.0 Pin=P3-2
+Added Pin To Net: NetName=5.0 Pin=P4-2
+Added Pin To Net: NetName=5.0 Pin=Rtemp-1
+Added Pin To Net: NetName=5.0 Pin=temp-1
+Added Net: Name=5.0
+Added Pin To Net: NetName=A0 Pin=ARDUINO-9
+Added Pin To Net: NetName=A0 Pin=PRE-2
+Added Net: Name=A0
+Added Pin To Net: NetName=D2 Pin=ARDUINO-53
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=ARDUINO-54
+Added Pin To Net: NetName=D3 Pin=R3-2
+Added Pin To Net: NetName=D3 Pin=Rtemp-2
+Added Pin To Net: NetName=D3 Pin=temp-2
+Added Net: Name=D3
+Added Pin To Net: NetName=D23 Pin=ARDUINO-41
+Added Pin To Net: NetName=D23 Pin=P1-5
+Added Net: Name=D23
+Added Pin To Net: NetName=D25 Pin=ARDUINO-40
+Added Pin To Net: NetName=D25 Pin=P1-6
+Added Net: Name=D25
+Added Pin To Net: NetName=D27 Pin=ARDUINO-39
+Added Pin To Net: NetName=D27 Pin=P1-9
+Added Net: Name=D27
+Added Pin To Net: NetName=D29 Pin=ARDUINO-38
+Added Pin To Net: NetName=D29 Pin=P1-10
+Added Net: Name=D29
+Added Pin To Net: NetName=D31 Pin=ARDUINO-37
+Added Pin To Net: NetName=D31 Pin=P2-5
+Added Net: Name=D31
+Added Pin To Net: NetName=D33 Pin=ARDUINO-36
+Added Pin To Net: NetName=D33 Pin=P2-6
+Added Net: Name=D33
+Added Pin To Net: NetName=D35 Pin=ARDUINO-35
+Added Pin To Net: NetName=D35 Pin=P2-9
+Added Net: Name=D35
+Added Pin To Net: NetName=D37 Pin=ARDUINO-34
+Added Pin To Net: NetName=D37 Pin=P2-10
+Added Net: Name=D37
+Added Pin To Net: NetName=D39 Pin=ARDUINO-33
+Added Pin To Net: NetName=D39 Pin=P3-5
+Added Net: Name=D39
+Added Pin To Net: NetName=D41 Pin=ARDUINO-32
+Added Pin To Net: NetName=D41 Pin=P3-6
+Added Net: Name=D41
+Added Pin To Net: NetName=D43 Pin=ARDUINO-31
+Added Pin To Net: NetName=D43 Pin=P3-9
+Added Net: Name=D43
+Added Pin To Net: NetName=D45 Pin=ARDUINO-30
+Added Pin To Net: NetName=D45 Pin=P3-10
+Added Net: Name=D45
+Added Pin To Net: NetName=D47 Pin=ARDUINO-29
+Added Pin To Net: NetName=D47 Pin=P4-5
+Added Net: Name=D47
+Added Pin To Net: NetName=D49 Pin=ARDUINO-28
+Added Pin To Net: NetName=D49 Pin=P4-6
+Added Net: Name=D49
+Added Pin To Net: NetName=D51 Pin=ARDUINO-27
+Added Pin To Net: NetName=D51 Pin=P4-9
+Added Net: Name=D51
+Added Pin To Net: NetName=D53 Pin=ARDUINO-26
+Added Pin To Net: NetName=D53 Pin=P4-10
+Added Net: Name=D53
+Added Pin To Net: NetName=GND Pin=6050-3
+Added Pin To Net: NetName=GND Pin=ARDUINO-6
+Added Pin To Net: NetName=GND Pin=ARDUINO-7
+Added Pin To Net: NetName=GND Pin=ARDUINO-65
+Added Pin To Net: NetName=GND Pin=LED-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=PRE-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=temp-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=R1-2
+Added Net: Name=NetLED_1
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R2-2
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=R2-1
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=PWM1 Pin=ARDUINO-57
+Added Pin To Net: NetName=PWM1 Pin=P1-7
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=ARDUINO-58
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=ARDUINO-59
+Added Pin To Net: NetName=PWM3 Pin=P2-7
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=ARDUINO-60
+Added Net: Name=PWM4
+Added Pin To Net: NetName=PWM5 Pin=ARDUINO-61
+Added Pin To Net: NetName=PWM5 Pin=P3-7
+Added Net: Name=PWM5
+Added Pin To Net: NetName=PWM6 Pin=ARDUINO-62
+Added Net: Name=PWM6
+Added Pin To Net: NetName=PWM7 Pin=ARDUINO-63
+Added Pin To Net: NetName=PWM7 Pin=P4-7
+Added Net: Name=PWM7
+Added Pin To Net: NetName=PWM8 Pin=ARDUINO-64
+Added Net: Name=PWM8
+Added Pin To Net: NetName=RX1 Pin=ARDUINO-45
+Added Net: Name=RX1
+Added Pin To Net: NetName=SCL Pin=6050-2
+Added Pin To Net: NetName=SCL Pin=ARDUINO-43
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=6050-1
+Added Pin To Net: NetName=SDA Pin=ARDUINO-44
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX1 Pin=ARDUINO-46
+Added Net: Name=TX1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

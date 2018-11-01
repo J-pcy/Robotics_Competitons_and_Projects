@@ -1,0 +1,11 @@
+Added Component: Designator=U1(SOIC127P600-8M)
+Added Pin To Net: NetName=RX1 Pin=U1-1
+Added Pin To Net: NetName=D3 Pin=U1-2
+Added Pin To Net: NetName=D3 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=TX1 Pin=U1-4
+Added Pin To Net: NetName=NetP5_2 Pin=U1-5
+Added Pin To Net: NetName=NetP5_1 Pin=U1-6
+Added Pin To Net: NetName=3.3 Pin=U1-7
+Added Member To Class: ClassName=Sheet1 Member=Component U1 MAX3485
+Added Room: Name=Sheet1

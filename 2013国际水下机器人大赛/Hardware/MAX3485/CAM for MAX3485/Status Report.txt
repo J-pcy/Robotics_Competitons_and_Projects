@@ -1,0 +1,19 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for MAX3485.cam'
+at 18:01:39 on 1-Mar-2013 
+
+
+'NC Drill Output 1'
+'MAX3485.TXT' generated
+'MAX3485.DRL' generated
+'MAX3485.DRR' generated
+
+'Gerber Output 1'
+'MAX3485.GTL' generated
+'MAX3485.GKO' generated
+'MAX3485.GD1' generated
+'MAX3485.GG1' generated
+'MAX3485.REP' generated
+
+
+Total number of generated files = 8

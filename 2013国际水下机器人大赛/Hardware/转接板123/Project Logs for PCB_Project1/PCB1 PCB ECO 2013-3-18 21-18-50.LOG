@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=5.0 Pin=Rt-1
+Removed Pin From Net: NetName=5.0 Pin=temp-1
+Removed Pin From Net: NetName=GND Pin=temp-3
+Removed Member From Class: ClassName=Sheet1 Member=Rt
+Removed Member From Class: ClassName=Sheet1 Member=temp
+Added Component: Designator=P6(À¶É«µçÔ´²å×ù)
+Added Component: Designator=P7(HDR1X3)
+Added Component: Designator=P8(HDR1X3)
+Added Component: Designator=P9(HDR1X3)
+Added Component: Designator=P10(HDR1X3)
+Added Component: Designator=P11(HDR1X4)
+Added Component: Designator=P12(HDR1X4)
+Added Component: Designator=P13(HDR1X4)
+Added Component: Designator=P14(HDR1X4)
+Added Component: Designator=P15(HDR1X4)
+Added Component: Designator=R5(0805)
+Added Component: Designator=U2(3485)
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=5.0 Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=5.0 Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=5.0 Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=5.0 Pin=P10-2
+Added Pin To Net: NetName=5.0 Pin=P12-1
+Added Pin To Net: NetName=5.0 Pin=P12-2
+Added Pin To Net: NetName=5.0 Pin=P12-3
+Added Pin To Net: NetName=5.0 Pin=P12-4
+Added Pin To Net: NetName=3.3 Pin=P13-1
+Added Pin To Net: NetName=3.3 Pin=P13-2
+Added Pin To Net: NetName=3.3 Pin=P13-3
+Added Pin To Net: NetName=3.3 Pin=P13-4
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Pin To Net: NetName=GND Pin=P14-4
+Added Pin To Net: NetName=3.3 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=3.3 Pin=U1-2
+Added Pin To Net: NetName=3.3 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=3.3 Pin=U2-8
+Added Pin To Net: NetName=A1 Pin=ARDUINO-10
+Added Pin To Net: NetName=A1 Pin=P11-1
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=ARDUINO-11
+Added Pin To Net: NetName=A2 Pin=P11-2
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=ARDUINO-12
+Added Pin To Net: NetName=A3 Pin=P11-3
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=ARDUINO-13
+Added Pin To Net: NetName=A4 Pin=P11-4
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=ARDUINO-14
+Added Pin To Net: NetName=A5 Pin=P15-3
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=ARDUINO-15
+Added Pin To Net: NetName=A6 Pin=P15-4
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=ARDUINO-16
+Added Net: Name=A7
+Added Pin To Net: NetName=D0 Pin=ARDUINO-51
+Added Pin To Net: NetName=D0 Pin=P15-1
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=ARDUINO-52
+Added Pin To Net: NetName=D1 Pin=P15-2
+Added Net: Name=D1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R5-1
+Added Pin To Net: NetName=NetP6_1 Pin=U2-6
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=R5-2
+Added Pin To Net: NetName=NetP6_2 Pin=U2-7
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=RX2 Pin=ARDUINO-47
+Added Pin To Net: NetName=RX2 Pin=U2-1
+Added Net: Name=RX2
+Added Pin To Net: NetName=SERVO1 Pin=ARDUINO-53
+Added Pin To Net: NetName=SERVO1 Pin=P7-3
+Added Net: Name=SERVO1
+Added Pin To Net: NetName=SERVO2 Pin=ARDUINO-54
+Added Pin To Net: NetName=SERVO2 Pin=P8-3
+Added Net: Name=SERVO2
+Added Pin To Net: NetName=SERVO3 Pin=ARDUINO-55
+Added Pin To Net: NetName=SERVO3 Pin=P9-3
+Added Net: Name=SERVO3
+Added Pin To Net: NetName=SERVO4 Pin=ARDUINO-56
+Added Pin To Net: NetName=SERVO4 Pin=P10-3
+Added Net: Name=SERVO4
+Added Pin To Net: NetName=TX2 Pin=ARDUINO-48
+Added Pin To Net: NetName=TX2 Pin=U2-4
+Added Net: Name=TX2
+Added Member To Class: ClassName=Sheet1 Member=Component P6 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P7 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P8 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P9 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P10 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P11 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P12 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P13 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P14 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P15 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component U2 MAX3482
+Added Room: Name=Sheet1

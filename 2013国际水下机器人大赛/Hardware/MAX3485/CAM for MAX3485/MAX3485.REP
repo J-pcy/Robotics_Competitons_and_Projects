@@ -1,0 +1,65 @@
+*************************************************************
+FileName = MAX3485.GBR
+AutoAperture = True
+*************************************************************
+Generating : 
+      File : MAX3485.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : MAX3485.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : MAX3485.GD1
+
+    Adding Layer      : Drill Drawing
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MAX3485.GG1
+
+    Adding Layer      : Drill Guide
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+
+Used DCodes :
+    D23
+*************************************************************
+

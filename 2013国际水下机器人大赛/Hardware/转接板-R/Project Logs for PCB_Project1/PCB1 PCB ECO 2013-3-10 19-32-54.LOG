@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U1 Old Footprint=SOP65P780-8M New Footprint=PCBComponent_1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Room: Name=Sheet1

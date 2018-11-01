@@ -1,0 +1,20 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for 转接板.cam'
+at 20:31:04 on 21-Mar-2013
+
+
+'NC Drill Output 1'
+'转接板.TXT' generated
+'转接板.DRL' generated
+'转接板.DRR' generated
+
+'Gerber Output 1'
+'转接板.GTL' generated
+'转接板.GBL' generated
+'转接板.GKO' generated
+'转接板.GD1' generated
+'转接板.GG1' generated
+'转接板.REP' generated
+
+
+Total number of generated files = 9

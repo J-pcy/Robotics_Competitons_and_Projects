@@ -1,0 +1,9 @@
+Added Component: Designator=POWER(HDR1X2)
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=5V Pin=PY-12
+Added Pin To Net: NetName=NetKG_2 Pin=KG-2
+Added Pin To Net: NetName=NetKG_2 Pin=POWER-1
+Added Net: Name=NetKG_2
+Added Member To Class: ClassName=Sheet1 Member=Component POWER Header 2
+Removed Pin From Net: NetName=5V Pin=PY-13
+Added Pin To Net: NetName=RST Pin=PY-13

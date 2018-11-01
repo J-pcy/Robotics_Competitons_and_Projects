@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetP5_2 Pin=U1-5
+Removed Pin From Net: NetName=NetP5_1 Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Change Component DesignItemId : Designator=U1 Old DesignItemId=Component_1 New DesignItemId=MAX3482
+Change Component Footprint: Designator=U1 Old Footprint=PCBComponent_1 New Footprint=LM358
+Change Component Comment : Designator=U1 Old Comment=MAX3485 New Comment=MAX3482
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetP5_2 Pin=U1-6
+Added Pin To Net: NetName=NetP5_1 Pin=U1-7
+Added Room: Name=Sheet1

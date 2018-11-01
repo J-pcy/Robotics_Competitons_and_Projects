@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PWM4 Pin=P2-8
+Added Pin To Net: NetName=PWM6 Pin=P3-8
+Added Pin To Net: NetName=PWM8 Pin=P4-8
+Added Pin To Net: NetName=TX1 Pin=U1-4
+Added Room: Name=Sheet1

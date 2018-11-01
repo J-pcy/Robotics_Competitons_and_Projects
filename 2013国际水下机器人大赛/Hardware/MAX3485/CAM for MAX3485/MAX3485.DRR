@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MAX3485.pcb   1-Mar-2013   18:01:39
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        1mm (39.37mil)           2                130.05 mm (5.12 Inch)
+T2        0.9mm (35.433mil)        7                124.91 mm (4.92 Inch)
+T3        3mm (118.11mil)          4                168.56 mm (6.64 Inch)
+---------------------------------------------------------------------------
+Totals                             13               423.52 mm (16.67 Inch)
+
+Total Processing Time : 00:00:00

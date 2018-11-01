@@ -1,0 +1,35 @@
+03 在这次水下机器人香港赛区的比赛中，我们第一次在现场这么近距离的看到了真实的比赛环境以及其他参赛队伍的作品，尤其是香港科技大学那庞大的体积、与众不同的外形设计给我们留下了深刻的印象。因此我们也想做出一些我们的特色。
+
+06 虽然我们为安全检查已经做了很多工作，但是当我们真正到达比赛现场看到其他队伍的安全防护时才对这个称为safety feature是的东西有了更深刻的理解。
+
+13 此外在香港的比赛也为我们填上了经验的空白，使我们之前的很多疑惑得到了解答。不过毕竟是第一次参赛，对于比赛还有很多不是非常了解，但我们相信在比赛方以及其他参赛队伍的帮助下，我们能够完满的完成比赛。
+
+03 We really learned a lot in the regional contest in Hong Kong. And that was the first time for us to feel such a real international contest. ROVs are so impressive for us! Especially, the one made by Hong Kong University of Science and Technology was so big and really had an original style. So we thought that we can also make something special like them.
+
+06 Before we took part in the regional contest, we had thought we already did a lot of things about safety. But when we participated in the contest, we came to realize that safety feature was so special and so important and we still need to do more about it.
+
+13 Besides, we filled the gap of experience in the regional contest. Before the contest, we had so much puzzle, the contest just gave us a perfect answer.About this compition, after all, it will be the first time for us to go to America and participate in the international contest, we know we still have to learn a lot. But we believe that we can certainly fulfill the task with the help of judgers and so many new friends from other teams! 
+
+
+
+
+
+2、满足水深要求和电路安装要求的密封舱设计
+    首先对密封舱的材料和厚度进行了实验，实验结果如下图，考虑到铝板易于切割和对实验结果的分析，密封舱的材料选择厚度为3mm的铝板。
+    所有压力外壳设计标准为1.5MPa压力对应到150米深度，分别进行了计算满足需求的结果。我们分别在6米深度装配并进行水下实验和压力、刚度和密封性测试。所有的密封舱正常运行在这个深度。密封舱是一个非常复杂的形状，利用精细焊接技术、加工中心等联合制造而成。密封舱唯一的功能是保证密封性。几乎相同的技术方案都使用密封的可靠性高的组件，尤其是在一个激光测距仪操作箱上。 在去香港比赛之前的制作过程中，我们在密封舱的设计中花费了大量的时间与精力，可是结果并不是很令人满意。直到在香港的比赛结束，我们依然没法很自信的保证密封舱的严格密封性。对此，我们这次又重新设计了新的密封舱方案以确保其更加可靠。
+
+
+2. The design of waterproof circuit box can inadequate to the demands of the depth of water and the arrangement of circuit.
+  At first, when we wanted to determine the material and thickness about waterproof circuit box, we made a lot of experiments, and results are listed below. Analysis showed that aluminium sheet was easy to be machined down. Referring to the result of experiment, we determined to use aluminium sheet(3mm) to make the waterproof circuit box.
+  We put it under 6 meter of water to test the pressure, rigidity and waterproof. And we found that it could work. The shape of waterproof circuit box has quite a complicated structure. For completing it, we used the technic of weld and made it in the workshop in our school. We wasted a lot of time to design and construct the box before we went to Hong Kong, but we didn't get good results. And we still didn't have the confidence about waterproof when we complete the regional contest. So we changed the scheme to make sure that it can truly waterproof.
+
+
+    在香港的比赛中选用的叶片是塑料材质，叶片被安置在一个塑料的管子里，然后有格子来保护螺旋桨。在水里不会生锈，并且能提供一个很好的加速和扭转力。可是当我们发现机器人在水中推动力不足很有可能是由叶片过小、材质软引起的时候，我们便决定放弃小型塑料叶片的使用，换成稍大一号的铝合金叶片以增大其推动能力。
+
+  We used plastic propellers  in the regional contest, because we thought plastic won't get rust in the water. But we found that the propulsive force was not enough, so we decided to change all of them to aluminium propellers, which are bigger and harder.
+
+
+
+
+
+
