@@ -1,0 +1,26 @@
+*************************************************************
+FileName = yuan.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : yuan.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : yuan.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

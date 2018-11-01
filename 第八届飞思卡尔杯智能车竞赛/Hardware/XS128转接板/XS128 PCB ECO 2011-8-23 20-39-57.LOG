@@ -1,0 +1,5 @@
+Added Room: Name=XS128
+Removed Pin From Net: NetName=N Pin=J2-6
+Added Pin To Net: NetName=K7 Pin=J2-6
+Removed Pin From Net: NetName=N Pin=U1-223
+Added Pin To Net: NetName=K7 Pin=U1-223

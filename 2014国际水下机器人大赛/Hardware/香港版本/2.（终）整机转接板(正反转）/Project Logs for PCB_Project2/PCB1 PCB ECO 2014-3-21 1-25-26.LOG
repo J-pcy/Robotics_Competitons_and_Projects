@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=DC24V_4- Pin=通讯端口2_1-2
+Removed Pin From Net: NetName=5V Pin=通讯端口2_1-3
+Removed Pin From Net: NetName=9V Pin=通讯端口2_1-4
+Removed Member From Class: ClassName=Sheet2 Member=CAN总线
+Removed Member From Class: ClassName=Sheet2 Member=P4
+Removed Member From Class: ClassName=Sheet2 Member=P5
+Removed Member From Class: ClassName=Sheet2 Member=P6
+Removed Member From Class: ClassName=Sheet2 Member=POWER1
+Removed Member From Class: ClassName=Sheet2 Member=SCK NSS
+Removed Member From Class: ClassName=Sheet2 Member=SWCLK
+Removed Member From Class: ClassName=Sheet2 Member=U1
+Removed Member From Class: ClassName=Sheet2 Member=步进电机1
+Removed Member From Class: ClassName=Sheet2 Member=步进电机2
+Removed Member From Class: ClassName=Sheet2 Member=模拟量输入1
+Removed Member From Class: ClassName=Sheet2 Member=模拟量输入2
+Removed Member From Class: ClassName=Sheet2 Member=通讯端口1
+Removed Member From Class: ClassName=Sheet2 Member=云台舵机1
+Removed Member From Class: ClassName=Sheet2 Member=云台舵机2
+Change Component Footprint: Designator=PWM_1_1 Old Footprint=SIP8 New Footprint=DIP8-3MM
+Added Component: Designator=SIP10(SIP2)
+Added Component: Designator=SIP11(SIP2)
+Added Component: Designator=SIP28(SIP2)
+Added Pin To Net: NetName=NetSIP11_1 Pin=SIP11-1
+Added Pin To Net: NetName=NetSIP11_2 Pin=SIP11-2
+Added Pin To Net: NetName=NetSIP11_2 Pin=SIP28-1
+Added Pin To Net: NetName=NetSIP11_1 Pin=SIP28-2
+Added Pin To Net: NetName=DC24V_4- Pin=通讯端口2-3
+Added Pin To Net: NetName=5V Pin=通讯端口2-4
+Added Pin To Net: NetName=PC0 Pin=SIP10-1
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=SIP10-2
+Added Net: Name=PC1
+Added Pin To Net: NetName=RX2 Pin=通讯端口2-1
+Added Net: Name=RX2
+Added Pin To Net: NetName=RX3 Pin=PWM_1_1-8
+Added Net: Name=RX3
+Added Pin To Net: NetName=T2_1 Pin=PWM_1_1-1
+Added Net: Name=T2_1
+Added Pin To Net: NetName=T2_2 Pin=PWM_1_1-4
+Added Net: Name=T2_2
+Added Pin To Net: NetName=T3_1 Pin=PWM_1_1-5
+Added Net: Name=T3_1
+Added Pin To Net: NetName=T3_2 Pin=PWM_1_1-6
+Added Net: Name=T3_2
+Added Pin To Net: NetName=T3_3 Pin=PWM_1_1-3
+Added Net: Name=T3_3
+Added Pin To Net: NetName=T3_4 Pin=PWM_1_1-2
+Added Net: Name=T3_4
+Added Pin To Net: NetName=T4_1 Pin=SIP5_1-4
+Added Net: Name=T4_1
+Added Pin To Net: NetName=T4_2 Pin=SIP5_1-3
+Added Net: Name=T4_2
+Added Pin To Net: NetName=T4_3 Pin=SIP5_1-2
+Added Net: Name=T4_3
+Added Pin To Net: NetName=T4_4 Pin=SIP5_1-1
+Added Net: Name=T4_4
+Added Pin To Net: NetName=TX2 Pin=通讯端口2-2
+Added Net: Name=TX2
+Added Pin To Net: NetName=TX3 Pin=PWM_1_1-7
+Added Net: Name=TX3
+Added Member To Class: ClassName=Sheet2 Member=Component PWM_1_1 SIP8
+Added Member To Class: ClassName=Sheet2 Member=Component SIP5_1 SIP4
+Added Member To Class: ClassName=Sheet2 Member=Component SIP10 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component SIP11 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component SIP28 SIP2
+Added Room: Name=Sheet2

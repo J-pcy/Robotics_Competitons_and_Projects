@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetCAN_2 Pin=SIP24-3
+Removed Pin From Net: NetName=NetCAN_3 Pin=SIP24-4
+Added Pin To Net: NetName=NetCAN_3 Pin=SIP24-3
+Added Pin To Net: NetName=NetCAN_2 Pin=SIP24-4

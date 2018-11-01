@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=12V Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=12V Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=12V Pin=C21-2
+Removed Member From Class: ClassName=SX1308升压电路 Member=C19
+Removed Member From Class: ClassName=SX1308升压电路 Member=C20
+Removed Member From Class: ClassName=SX1308升压电路 Member=C21

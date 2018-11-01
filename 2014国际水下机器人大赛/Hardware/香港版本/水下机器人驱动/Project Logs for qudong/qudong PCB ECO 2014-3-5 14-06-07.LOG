@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PWM1 Pin=SIP1-8
+Removed Pin From Net: NetName=PWM2 Pin=SIP1-9
+Removed Pin From Net: NetName=PWM3 Pin=SIP1-10
+Removed Pin From Net: NetName=PWM4 Pin=SIP1-11
+Removed Pin From Net: NetName=SERVO_PWM Pin=SIP1-12
+Added Pin To Net: NetName=PWM1_ Pin=SIP1-8
+Added Pin To Net: NetName=PWM2_ Pin=SIP1-9
+Added Pin To Net: NetName=PWM3_ Pin=SIP1-10
+Added Pin To Net: NetName=PWM4_ Pin=SIP1-11
+Added Pin To Net: NetName=SERVO_PWM_ Pin=SIP1-12
+Added Room: Name=qudong

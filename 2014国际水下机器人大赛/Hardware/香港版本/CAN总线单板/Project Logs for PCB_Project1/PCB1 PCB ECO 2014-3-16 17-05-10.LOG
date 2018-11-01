@@ -1,0 +1,51 @@
+Added Component: Designator=C1(RES-T)
+Added Component: Designator=L1(B82793)
+Added Component: Designator=Q1(SI2302)
+Added Component: Designator=R1(RES-T)
+Added Component: Designator=R2(RES-T)
+Added Component: Designator=SIP1(SIP3)
+Added Component: Designator=SIP2(SIP2)
+Added Component: Designator=SIP3(SIP4)
+Added Component: Designator=U1(CTM8251T)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=SIP1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-7
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-6
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=NetL1_3 Pin=R1-2
+Added Pin To Net: NetName=NetL1_3 Pin=SIP1-1
+Added Net: Name=NetL1_3
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Pin To Net: NetName=NetL1_4 Pin=SIP1-3
+Added Pin To Net: NetName=NetL1_4 Pin=SIP2-1
+Added Net: Name=NetL1_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SIP2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetSIP3_1 Pin=SIP3-1
+Added Pin To Net: NetName=NetSIP3_1 Pin=U1-4
+Added Net: Name=NetSIP3_1
+Added Pin To Net: NetName=NetSIP3_2 Pin=SIP3-2
+Added Pin To Net: NetName=NetSIP3_2 Pin=U1-3
+Added Net: Name=NetSIP3_2
+Added Pin To Net: NetName=NetSIP3_3 Pin=SIP3-3
+Added Pin To Net: NetName=NetSIP3_3 Pin=U1-2
+Added Net: Name=NetSIP3_3
+Added Pin To Net: NetName=NetSIP3_4 Pin=SIP3-4
+Added Pin To Net: NetName=NetSIP3_4 Pin=U1-1
+Added Net: Name=NetSIP3_4
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

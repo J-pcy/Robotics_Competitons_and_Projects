@@ -1,0 +1,243 @@
+Removed Pin From Net: NetName=5V Pin=SIP3-4
+Added Component: Designator=L1(LED-T)
+Added Component: Designator=L2(LED-T)
+Added Component: Designator=L3(LED-T)
+Added Component: Designator=L4(LED-T)
+Added Component: Designator=L5(LED-T)
+Added Component: Designator=L6(LED-T)
+Added Component: Designator=L7(LED-T)
+Added Component: Designator=L8(LED-T)
+Added Component: Designator=L9(LED-T)
+Added Component: Designator=L10(LED-T)
+Added Component: Designator=L11(LED-T)
+Added Component: Designator=L12(LED-T)
+Added Component: Designator=L13(LED-T)
+Added Component: Designator=L14(LED-T)
+Added Component: Designator=L15(LED-T)
+Added Component: Designator=L16(LED-T)
+Added Component: Designator=L17(LED-T)
+Added Component: Designator=L18(LED-T)
+Added Component: Designator=L19(LED-T)
+Added Component: Designator=L20(LED-T)
+Added Component: Designator=L21(LED-T)
+Added Component: Designator=L22(LED-T)
+Added Component: Designator=L23(LED-T)
+Added Component: Designator=L24(LED-T)
+Added Component: Designator=L25(LED-T)
+Added Component: Designator=L26(LED-T)
+Added Component: Designator=L27(LED-T)
+Added Component: Designator=R1(RES-T)
+Added Component: Designator=R2(RES-T)
+Added Component: Designator=R3(RES-T)
+Added Component: Designator=R4(RES-T)
+Added Component: Designator=R5(RES-T)
+Added Component: Designator=R6(RES-T)
+Added Component: Designator=R7(RES-T)
+Added Component: Designator=R8(RES-T)
+Added Component: Designator=R9(RES-T)
+Added Component: Designator=R10(RES-T)
+Added Component: Designator=R11(RES-T)
+Added Component: Designator=R12(RES-T)
+Added Component: Designator=R13(RES-T)
+Added Component: Designator=R14(RES-T)
+Added Component: Designator=R15(RES-T)
+Added Component: Designator=R16(RES-T)
+Added Component: Designator=R17(RES-T)
+Added Component: Designator=R18(RES-T)
+Added Component: Designator=R19(RES-T)
+Added Component: Designator=R20(RES-T)
+Added Component: Designator=R21(RES-T)
+Added Component: Designator=R22(RES-T)
+Added Component: Designator=R23(RES-T)
+Added Component: Designator=R24(RES-T)
+Added Component: Designator=R25(RES-T)
+Added Component: Designator=R26(RES-T)
+Added Component: Designator=R27(RES-T)
+Added Pin To Net: NetName=T5_1 Pin=L1-1
+Added Pin To Net: NetName=T4_1 Pin=L2-1
+Added Pin To Net: NetName=T4_1 Pin=L3-2
+Added Pin To Net: NetName=T5_3 Pin=L4-1
+Added Pin To Net: NetName=T4_3 Pin=L5-1
+Added Pin To Net: NetName=T4_3 Pin=L6-2
+Added Pin To Net: NetName=T1_1 Pin=L7-1
+Added Pin To Net: NetName=T3_1 Pin=L8-1
+Added Pin To Net: NetName=T3_1 Pin=L9-2
+Added Pin To Net: NetName=T1_3 Pin=L10-1
+Added Pin To Net: NetName=T3_3 Pin=L11-1
+Added Pin To Net: NetName=T3_3 Pin=L12-2
+Added Pin To Net: NetName=T5_2 Pin=L13-1
+Added Pin To Net: NetName=T4_2 Pin=L14-1
+Added Pin To Net: NetName=T4_2 Pin=L15-2
+Added Pin To Net: NetName=T5_4 Pin=L16-1
+Added Pin To Net: NetName=T4_4 Pin=L17-1
+Added Pin To Net: NetName=T4_4 Pin=L18-2
+Added Pin To Net: NetName=T1_2 Pin=L19-1
+Added Pin To Net: NetName=T3_2 Pin=L20-1
+Added Pin To Net: NetName=T3_2 Pin=L21-2
+Added Pin To Net: NetName=T1_4 Pin=L22-1
+Added Pin To Net: NetName=T3_4 Pin=L23-1
+Added Pin To Net: NetName=T3_4 Pin=L24-2
+Added Pin To Net: NetName=DUO1 Pin=L25-1
+Added Pin To Net: NetName=DUO2 Pin=L26-1
+Added Pin To Net: NetName=DUO2 Pin=L27-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=5V Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=5V Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=5V Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=5V Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=5V Pin=R27-2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R2-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=R3-1
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R4-1
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=R5-1
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=R6-1
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=R7-1
+Added Net: Name=NetL7_2
+Added Pin To Net: NetName=NetL8_2 Pin=L8-2
+Added Pin To Net: NetName=NetL8_2 Pin=R8-1
+Added Net: Name=NetL8_2
+Added Pin To Net: NetName=NetL9_1 Pin=L9-1
+Added Pin To Net: NetName=NetL9_1 Pin=R9-1
+Added Net: Name=NetL9_1
+Added Pin To Net: NetName=NetL10_2 Pin=L10-2
+Added Pin To Net: NetName=NetL10_2 Pin=R10-1
+Added Net: Name=NetL10_2
+Added Pin To Net: NetName=NetL11_2 Pin=L11-2
+Added Pin To Net: NetName=NetL11_2 Pin=R11-1
+Added Net: Name=NetL11_2
+Added Pin To Net: NetName=NetL12_1 Pin=L12-1
+Added Pin To Net: NetName=NetL12_1 Pin=R12-1
+Added Net: Name=NetL12_1
+Added Pin To Net: NetName=NetL13_2 Pin=L13-2
+Added Pin To Net: NetName=NetL13_2 Pin=R13-1
+Added Net: Name=NetL13_2
+Added Pin To Net: NetName=NetL14_2 Pin=L14-2
+Added Pin To Net: NetName=NetL14_2 Pin=R14-1
+Added Net: Name=NetL14_2
+Added Pin To Net: NetName=NetL15_1 Pin=L15-1
+Added Pin To Net: NetName=NetL15_1 Pin=R15-1
+Added Net: Name=NetL15_1
+Added Pin To Net: NetName=NetL16_2 Pin=L16-2
+Added Pin To Net: NetName=NetL16_2 Pin=R16-1
+Added Net: Name=NetL16_2
+Added Pin To Net: NetName=NetL17_2 Pin=L17-2
+Added Pin To Net: NetName=NetL17_2 Pin=R17-1
+Added Net: Name=NetL17_2
+Added Pin To Net: NetName=NetL18_1 Pin=L18-1
+Added Pin To Net: NetName=NetL18_1 Pin=R18-1
+Added Net: Name=NetL18_1
+Added Pin To Net: NetName=NetL19_2 Pin=L19-2
+Added Pin To Net: NetName=NetL19_2 Pin=R19-1
+Added Net: Name=NetL19_2
+Added Pin To Net: NetName=NetL20_2 Pin=L20-2
+Added Pin To Net: NetName=NetL20_2 Pin=R20-1
+Added Net: Name=NetL20_2
+Added Pin To Net: NetName=NetL21_1 Pin=L21-1
+Added Pin To Net: NetName=NetL21_1 Pin=R21-1
+Added Net: Name=NetL21_1
+Added Pin To Net: NetName=NetL22_2 Pin=L22-2
+Added Pin To Net: NetName=NetL22_2 Pin=R22-1
+Added Net: Name=NetL22_2
+Added Pin To Net: NetName=NetL23_2 Pin=L23-2
+Added Pin To Net: NetName=NetL23_2 Pin=R23-1
+Added Net: Name=NetL23_2
+Added Pin To Net: NetName=NetL24_1 Pin=L24-1
+Added Pin To Net: NetName=NetL24_1 Pin=R24-1
+Added Net: Name=NetL24_1
+Added Pin To Net: NetName=NetL25_2 Pin=L25-2
+Added Pin To Net: NetName=NetL25_2 Pin=R25-1
+Added Net: Name=NetL25_2
+Added Pin To Net: NetName=NetL26_2 Pin=L26-2
+Added Pin To Net: NetName=NetL26_2 Pin=R26-1
+Added Net: Name=NetL26_2
+Added Pin To Net: NetName=NetL27_1 Pin=L27-1
+Added Pin To Net: NetName=NetL27_1 Pin=R27-1
+Added Net: Name=NetL27_1
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L1 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L2 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L3 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L4 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L5 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L6 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L7 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L8 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L9 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L10 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L11 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L12 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L13 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L14 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L15 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L16 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L17 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L18 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L19 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L20 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L21 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L22 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L23 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L24 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L25 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L26 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component L27 LED
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R1 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R2 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R3 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R4 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R5 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R6 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R7 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R8 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R9 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R10 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R11 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R12 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R13 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R14 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R15 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R16 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R17 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R18 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R19 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R20 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R21 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R22 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R23 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R24 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R25 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R26 R
+Added Member To Class: ClassName=zhuzhuan1 Member=Component R27 R
+Added Room: Name=zhuzhuan1

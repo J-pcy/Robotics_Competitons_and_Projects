@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=S0 Pin=J12-2
+Removed Pin From Net: NetName=S1 Pin=J12-3
+Removed Pin From Net: NetName=E2 Pin=J12-4
+Removed Pin From Net: NetName=+3.3V Pin=J12-5
+Removed Pin From Net: NetName=GND Pin=J12-6
+Removed Member From Class: ClassName=XS128 Member=J12
+Added Component: Designator=P12(HDR1X7)
+Added Pin To Net: NetName=E3 Pin=P12-1
+Added Pin To Net: NetName=S0 Pin=P12-3
+Added Pin To Net: NetName=S1 Pin=P12-4
+Added Pin To Net: NetName=E2 Pin=P12-5
+Added Pin To Net: NetName=+3.3V Pin=P12-6
+Added Pin To Net: NetName=GND Pin=P12-7
+Added Member To Class: ClassName=XS128 Member=Component P12 Header 7

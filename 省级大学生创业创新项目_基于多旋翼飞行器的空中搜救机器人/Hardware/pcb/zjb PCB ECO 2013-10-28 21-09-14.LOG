@@ -1,0 +1,21 @@
+Added Component: Designator=Q2(SOT-23)
+Added Component: Designator=Q4(SOT-23)
+Added Component: Designator=Q6(SOT-23)
+Added Component: Designator=Q8(SOT-23)
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ3_4 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ5_4 Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=NetQ7_4 Pin=Q8-3
+Added Member To Class: ClassName=zjb Member=Component Q2 NPN
+Added Member To Class: ClassName=zjb Member=Component Q4 NPN
+Added Member To Class: ClassName=zjb Member=Component Q6 NPN
+Added Member To Class: ClassName=zjb Member=Component Q8 NPN
+Added Room: Name=zjb

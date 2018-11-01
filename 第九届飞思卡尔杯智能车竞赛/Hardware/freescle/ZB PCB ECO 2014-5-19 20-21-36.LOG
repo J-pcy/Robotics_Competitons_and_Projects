@@ -1,0 +1,3 @@
+Added Room: Name=ZB
+Removed Pin From Net: NetName=GND Pin=DJ-1
+Added Pin To Net: NetName=DGND Pin=DJ-1

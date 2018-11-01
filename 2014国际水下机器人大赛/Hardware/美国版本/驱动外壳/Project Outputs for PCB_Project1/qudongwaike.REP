@@ -1,0 +1,14 @@
+*************************************************************
+FileName = qudongwaike.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : qudongwaike.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

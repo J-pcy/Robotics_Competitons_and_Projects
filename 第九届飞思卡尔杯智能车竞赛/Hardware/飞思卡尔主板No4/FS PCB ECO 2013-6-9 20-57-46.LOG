@@ -1,0 +1,6 @@
+Added Component: Designator=VR1(LM2940)
+Added Pin To Net: NetName=V1 Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 LM2940S
+Added Room: Name=Sheet1

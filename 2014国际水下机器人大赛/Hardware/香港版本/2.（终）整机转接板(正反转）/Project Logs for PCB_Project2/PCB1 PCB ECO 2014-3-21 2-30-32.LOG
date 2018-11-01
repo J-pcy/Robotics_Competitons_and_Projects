@@ -1,0 +1,230 @@
+Removed Pin From Net: NetName=DC24V_3+ Pin=SIP19-4
+Removed Pin From Net: NetName=OUT4 Pin=SIP20-1
+Removed Pin From Net: NetName=OUT3 Pin=SIP20-3
+Removed Pin From Net: NetName=OUT2 Pin=SIP20-5
+Removed Pin From Net: NetName=DC24V_1+ Pin=SIP20-6
+Removed Pin From Net: NetName=OUT1 Pin=SIP20-7
+Removed Pin From Net: NetName=DC24V_1+ Pin=SIP20-8
+Added Component: Designator=DC5(DIP2-3MM-K)
+Added Component: Designator=DC6(DIP2-3MM-K)
+Added Component: Designator=DC-4(DIP2-3MM-K)
+Added Component: Designator=DC-5(DIP2-3MM-K)
+Added Component: Designator=OUT3(DIP8-3MM)
+Added Component: Designator=P4(DIP36-3.96MM)
+Added Component: Designator=P5(DIP36-3.96MM)
+Added Component: Designator=P6(DIP36-3.96MM)
+Added Component: Designator=通讯端口2(SIP4)
+Added Pin To Net: NetName=DC24V_1- Pin=CAN-1
+Added Pin To Net: NetName=POWER 48V- Pin=DC5-1
+Added Pin To Net: NetName=POWER 48V+ Pin=DC5-2
+Added Pin To Net: NetName=POWER 48V- Pin=DC6-1
+Added Pin To Net: NetName=POWER 48V+ Pin=DC6-2
+Added Pin To Net: NetName=DC24V_1- Pin=DC-4-1
+Added Pin To Net: NetName=DC24V_1- Pin=DC-5-1
+Added Pin To Net: NetName=DC24V_1- Pin=LED1-1
+Added Pin To Net: NetName=DC24V_1- Pin=LED2-1
+Added Pin To Net: NetName=T5_1 Pin=P1-6
+Added Pin To Net: NetName=T5_2 Pin=P1-16
+Added Pin To Net: NetName=T5_4 Pin=P1-25
+Added Pin To Net: NetName=T5_3 Pin=P1-26
+Added Pin To Net: NetName=DC24V_1+ Pin=P1-27
+Added Pin To Net: NetName=DC24V_1+ Pin=P1-28
+Added Pin To Net: NetName=DC24V_1+ Pin=P1-29
+Added Pin To Net: NetName=DC24V_1+ Pin=P1-30
+Added Pin To Net: NetName=DC24V_1- Pin=P1-31
+Added Pin To Net: NetName=DC24V_1- Pin=P1-32
+Added Pin To Net: NetName=T1_1 Pin=P2-6
+Added Pin To Net: NetName=DC24V_1- Pin=P2-11
+Added Pin To Net: NetName=DC24V_1- Pin=P2-12
+Added Pin To Net: NetName=DC24V_1- Pin=P2-13
+Added Pin To Net: NetName=DC24V_1- Pin=P2-14
+Added Pin To Net: NetName=DC24V_1- Pin=P2-15
+Added Pin To Net: NetName=T1_2 Pin=P2-16
+Added Pin To Net: NetName=T1_4 Pin=P2-25
+Added Pin To Net: NetName=T1_3 Pin=P2-26
+Added Pin To Net: NetName=DC24V_1- Pin=P2-31
+Added Pin To Net: NetName=DC24V_1- Pin=P2-32
+Added Pin To Net: NetName=DC24V_1- Pin=P3-29
+Added Pin To Net: NetName=DC24V_1- Pin=P3-30
+Added Pin To Net: NetName=DC24V_1- Pin=P3-31
+Added Pin To Net: NetName=DC24V_1- Pin=P3-32
+Added Pin To Net: NetName=DC24V_1- Pin=P3-33
+Added Pin To Net: NetName=DC24V_1- Pin=P3-34
+Added Pin To Net: NetName=DC24V_1- Pin=P3-35
+Added Pin To Net: NetName=DC24V_1- Pin=P3-36
+Added Pin To Net: NetName=5V Pin=P4-5
+Added Pin To Net: NetName=T4_1 Pin=P4-6
+Added Pin To Net: NetName=DC24V_1- Pin=P4-11
+Added Pin To Net: NetName=DC24V_1- Pin=P4-12
+Added Pin To Net: NetName=DC24V_1- Pin=P4-13
+Added Pin To Net: NetName=DC24V_1- Pin=P4-14
+Added Pin To Net: NetName=DC24V_1- Pin=P4-15
+Added Pin To Net: NetName=T4_2 Pin=P4-16
+Added Pin To Net: NetName=T4_4 Pin=P4-25
+Added Pin To Net: NetName=T4_3 Pin=P4-26
+Added Pin To Net: NetName=DC24V_1- Pin=P4-31
+Added Pin To Net: NetName=DC24V_1- Pin=P4-32
+Added Pin To Net: NetName=5V Pin=P5-5
+Added Pin To Net: NetName=T2_1 Pin=P5-6
+Added Pin To Net: NetName=DC24V_1- Pin=P5-11
+Added Pin To Net: NetName=DC24V_1- Pin=P5-12
+Added Pin To Net: NetName=DC24V_1- Pin=P5-13
+Added Pin To Net: NetName=DC24V_1- Pin=P5-14
+Added Pin To Net: NetName=DC24V_1- Pin=P5-15
+Added Pin To Net: NetName=T2_2 Pin=P5-16
+Added Pin To Net: NetName=TX3 Pin=P5-25
+Added Pin To Net: NetName=RX3 Pin=P5-26
+Added Pin To Net: NetName=DC24V_1- Pin=P5-31
+Added Pin To Net: NetName=DC24V_1- Pin=P5-32
+Added Pin To Net: NetName=5V Pin=P6-5
+Added Pin To Net: NetName=T3_1 Pin=P6-6
+Added Pin To Net: NetName=DC24V_1- Pin=P6-11
+Added Pin To Net: NetName=DC24V_1- Pin=P6-12
+Added Pin To Net: NetName=DC24V_1- Pin=P6-13
+Added Pin To Net: NetName=DC24V_1- Pin=P6-14
+Added Pin To Net: NetName=DC24V_1- Pin=P6-15
+Added Pin To Net: NetName=T3_2 Pin=P6-16
+Added Pin To Net: NetName=T3_4 Pin=P6-25
+Added Pin To Net: NetName=T3_3 Pin=P6-26
+Added Pin To Net: NetName=DC24V_1- Pin=P6-31
+Added Pin To Net: NetName=DC24V_1- Pin=P6-32
+Added Pin To Net: NetName=DC24V_1- Pin=POWER-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP2-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP3-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP7-2
+Added Pin To Net: NetName=DC24V_1- Pin=SIP8-2
+Added Pin To Net: NetName=DC24V_1- Pin=SIP16-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP17-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP18-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP19-1
+Added Pin To Net: NetName=DC24V_1- Pin=SIP19-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP19-5
+Added Pin To Net: NetName=DC24V_3+ Pin=SIP19-6
+Added Pin To Net: NetName=OUT4 Pin=SIP20-5
+Added Pin To Net: NetName=OUT3 Pin=SIP20-6
+Added Pin To Net: NetName=OUT2 Pin=SIP20-7
+Added Pin To Net: NetName=OUT1 Pin=SIP20-8
+Added Pin To Net: NetName=DC24V_1- Pin=SIP23-3
+Added Pin To Net: NetName=DC24V_1- Pin=SIP24-2
+Added Pin To Net: NetName=DC24V_1- Pin=SIP25-2
+Added Pin To Net: NetName=DC24V_1- Pin=SIP26-2
+Added Pin To Net: NetName=RX2 Pin=通讯端口2-1
+Added Pin To Net: NetName=TX2 Pin=通讯端口2-2
+Added Pin To Net: NetName=DC24V_1- Pin=通讯端口2-3
+Added Pin To Net: NetName=5V Pin=通讯端口2-4
+Change Net Name : Old Net Name=DC24V_3+ New Net Name=DC24V_2+
+Change Net Name : Old Net Name=OUT2 New Net Name=OUT1-
+Change Net Name : Old Net Name=OUT3 New Net Name=OUT2
+Change Net Name : Old Net Name=OUT4 New Net Name=OUT2-
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-7
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-8
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-9
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-10
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-27
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-28
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-29
+Added Pin To Net: NetName=DC24V_3+ Pin=P4-30
+Added Pin To Net: NetName=DC24V_3+ Pin=SIP19-4
+Added Net: Name=DC24V_3+
+Added Pin To Net: NetName=DC24V_5+ Pin=DC-5-2
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-7
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-8
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-9
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-10
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-27
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-28
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-29
+Added Pin To Net: NetName=DC24V_5+ Pin=P5-30
+Added Net: Name=DC24V_5+
+Added Pin To Net: NetName=DC24V_6+ Pin=DC-4-2
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-7
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-8
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-9
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-10
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-27
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-28
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-29
+Added Pin To Net: NetName=DC24V_6+ Pin=P6-30
+Added Net: Name=DC24V_6+
+Added Pin To Net: NetName=OUT3- Pin=P4-17
+Added Pin To Net: NetName=OUT3- Pin=P4-18
+Added Pin To Net: NetName=OUT3- Pin=P4-19
+Added Pin To Net: NetName=OUT3- Pin=P4-20
+Added Pin To Net: NetName=OUT3- Pin=SIP20-3
+Added Net: Name=OUT3-
+Added Pin To Net: NetName=OUT3 Pin=P4-1
+Added Pin To Net: NetName=OUT3 Pin=P4-2
+Added Pin To Net: NetName=OUT3 Pin=P4-3
+Added Pin To Net: NetName=OUT3 Pin=P4-4
+Added Pin To Net: NetName=OUT3 Pin=SIP20-4
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4- Pin=P4-33
+Added Pin To Net: NetName=OUT4- Pin=P4-34
+Added Pin To Net: NetName=OUT4- Pin=P4-35
+Added Pin To Net: NetName=OUT4- Pin=P4-36
+Added Pin To Net: NetName=OUT4- Pin=SIP20-1
+Added Net: Name=OUT4-
+Added Pin To Net: NetName=OUT4 Pin=P4-21
+Added Pin To Net: NetName=OUT4 Pin=P4-22
+Added Pin To Net: NetName=OUT4 Pin=P4-23
+Added Pin To Net: NetName=OUT4 Pin=P4-24
+Added Pin To Net: NetName=OUT4 Pin=SIP20-2
+Added Net: Name=OUT4
+Added Pin To Net: NetName=OUT9- Pin=OUT3-7
+Added Pin To Net: NetName=OUT9- Pin=P5-17
+Added Pin To Net: NetName=OUT9- Pin=P5-18
+Added Pin To Net: NetName=OUT9- Pin=P5-19
+Added Pin To Net: NetName=OUT9- Pin=P5-20
+Added Net: Name=OUT9-
+Added Pin To Net: NetName=OUT9 Pin=OUT3-8
+Added Pin To Net: NetName=OUT9 Pin=P5-1
+Added Pin To Net: NetName=OUT9 Pin=P5-2
+Added Pin To Net: NetName=OUT9 Pin=P5-3
+Added Pin To Net: NetName=OUT9 Pin=P5-4
+Added Net: Name=OUT9
+Added Pin To Net: NetName=OUT10- Pin=OUT3-5
+Added Pin To Net: NetName=OUT10- Pin=P5-33
+Added Pin To Net: NetName=OUT10- Pin=P5-34
+Added Pin To Net: NetName=OUT10- Pin=P5-35
+Added Pin To Net: NetName=OUT10- Pin=P5-36
+Added Net: Name=OUT10-
+Added Pin To Net: NetName=OUT10 Pin=OUT3-6
+Added Pin To Net: NetName=OUT10 Pin=P5-21
+Added Pin To Net: NetName=OUT10 Pin=P5-22
+Added Pin To Net: NetName=OUT10 Pin=P5-23
+Added Pin To Net: NetName=OUT10 Pin=P5-24
+Added Net: Name=OUT10
+Added Pin To Net: NetName=OUT11- Pin=OUT3-3
+Added Pin To Net: NetName=OUT11- Pin=P6-17
+Added Pin To Net: NetName=OUT11- Pin=P6-18
+Added Pin To Net: NetName=OUT11- Pin=P6-19
+Added Pin To Net: NetName=OUT11- Pin=P6-20
+Added Net: Name=OUT11-
+Added Pin To Net: NetName=OUT11 Pin=OUT3-4
+Added Pin To Net: NetName=OUT11 Pin=P6-1
+Added Pin To Net: NetName=OUT11 Pin=P6-2
+Added Pin To Net: NetName=OUT11 Pin=P6-3
+Added Pin To Net: NetName=OUT11 Pin=P6-4
+Added Net: Name=OUT11
+Added Pin To Net: NetName=OUT12- Pin=OUT3-1
+Added Pin To Net: NetName=OUT12- Pin=P6-33
+Added Pin To Net: NetName=OUT12- Pin=P6-34
+Added Pin To Net: NetName=OUT12- Pin=P6-35
+Added Pin To Net: NetName=OUT12- Pin=P6-36
+Added Net: Name=OUT12-
+Added Pin To Net: NetName=OUT12 Pin=OUT3-2
+Added Pin To Net: NetName=OUT12 Pin=P6-21
+Added Pin To Net: NetName=OUT12 Pin=P6-22
+Added Pin To Net: NetName=OUT12 Pin=P6-23
+Added Pin To Net: NetName=OUT12 Pin=P6-24
+Added Net: Name=OUT12
+Added Member To Class: ClassName=Sheet2 Member=Component DC5 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component DC6 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component DC-4 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component DC-5 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component OUT3 SIP8
+Added Member To Class: ClassName=Sheet2 Member=Component P4 Header
+Added Member To Class: ClassName=Sheet2 Member=Component P5 Header
+Added Member To Class: ClassName=Sheet2 Member=Component P6 Header
+Added Member To Class: ClassName=Sheet2 Member=Component 通讯端口2 SIP4
+Added Room: Name=Sheet2

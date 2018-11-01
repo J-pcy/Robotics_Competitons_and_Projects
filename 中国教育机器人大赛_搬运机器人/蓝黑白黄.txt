@@ -1,0 +1,39 @@
+//À¶ºÚ°×»Æ
+  {
+    zuoz_90();       
+    banyun_back_1();
+    zuoz_90_banyun();
+    push_A();
+    push_back();
+    
+    zuoz_90();    
+    banyun_back_1();
+    push_A();
+    push_back();
+    
+    zuoz_135();    
+    banyun_back_1();
+    zuoz_45_banyun();
+    push_B();
+    push_back();
+    
+    youz_135();    
+    banyun_back_1();
+    youz_90_banyun();
+    push_A();
+    push_back();
+    
+    zuoz_45();
+    banyun_back_2_B();
+    youz_135_banyun();
+    push_A();
+    push_back();
+    
+    youz_135();
+    banyun_back_2_A();
+    zuoz_90_banyun();
+    push_B();
+    push_back();
+    
+    zuoz_90();
+  }

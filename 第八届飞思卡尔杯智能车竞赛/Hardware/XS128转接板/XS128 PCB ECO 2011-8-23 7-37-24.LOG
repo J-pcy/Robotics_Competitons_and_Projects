@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5V Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=P10-3
+Removed Pin From Net: NetName=A2 Pin=P11-1
+Removed Pin From Net: NetName=GND Pin=P11-3
+Removed Member From Class: ClassName=XS128 Member=P10
+Removed Member From Class: ClassName=XS128 Member=P11
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=+5V Pin=LCD1-15
+Added Room: Name=XS128

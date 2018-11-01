@@ -1,0 +1,171 @@
+Added Component: Designator=CAN总线(SIP3)
+Added Component: Designator=POWER1(SIP3)
+Added Component: Designator=PWM_1(SIP8)
+Added Component: Designator=PWM控制端口(SIP8)
+Added Component: Designator=SCK NSS(SIP2)
+Added Component: Designator=SIP1(SIP3)
+Added Component: Designator=SIP5(SIP4)
+Added Component: Designator=SWCLK(SIP3)
+Added Component: Designator=U1(-----STM32F407-----)
+Added Component: Designator=U2(ARDUINO MINI)
+Added Component: Designator=步进电机1(SIP2-3MM)
+Added Component: Designator=步进电机2(SIP2-3MM)
+Added Component: Designator=模拟量输入1(SIP3-3MM)
+Added Component: Designator=模拟量输入2(SIP3-3MM)
+Added Component: Designator=通讯端口1(SIP3)
+Added Component: Designator=云台舵机1(SIP3-3MM)
+Added Component: Designator=云台舵机2(SIP3-3MM)
+Added Pin To Net: NetName=3.3V Pin=U1-40
+Added Pin To Net: NetName=3.3V Pin=U2-24
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=POWER1-2
+Added Pin To Net: NetName=5V Pin=U1-25
+Added Pin To Net: NetName=5V Pin=U1-29
+Added Pin To Net: NetName=5V Pin=云台舵机1-2
+Added Pin To Net: NetName=5V Pin=云台舵机2-2
+Added Net: Name=5V
+Added Pin To Net: NetName=9V Pin=POWER1-1
+Added Pin To Net: NetName=9V Pin=模拟量输入1-3
+Added Pin To Net: NetName=9V Pin=模拟量输入2-3
+Added Net: Name=9V
+Added Pin To Net: NetName=GND Pin=CAN总线-1
+Added Pin To Net: NetName=GND Pin=POWER1-3
+Added Pin To Net: NetName=GND Pin=SIP1-3
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-26
+Added Pin To Net: NetName=GND Pin=模拟量输入1-2
+Added Pin To Net: NetName=GND Pin=模拟量输入2-2
+Added Pin To Net: NetName=GND Pin=云台舵机1-3
+Added Pin To Net: NetName=GND Pin=云台舵机2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCAN总线_2 Pin=CAN总线-2
+Added Pin To Net: NetName=NetCAN总线_2 Pin=U1-6
+Added Net: Name=NetCAN总线_2
+Added Pin To Net: NetName=NetCAN总线_3 Pin=CAN总线-3
+Added Pin To Net: NetName=NetCAN总线_3 Pin=U1-5
+Added Net: Name=NetCAN总线_3
+Added Pin To Net: NetName=NetPWM_1_1 Pin=PWM_1-1
+Added Pin To Net: NetName=NetPWM_1_1 Pin=U1-12
+Added Net: Name=NetPWM_1_1
+Added Pin To Net: NetName=NetPWM_1_2 Pin=PWM_1-2
+Added Pin To Net: NetName=NetPWM_1_2 Pin=U1-11
+Added Net: Name=NetPWM_1_2
+Added Pin To Net: NetName=NetPWM_1_3 Pin=PWM_1-3
+Added Pin To Net: NetName=NetPWM_1_3 Pin=U1-10
+Added Net: Name=NetPWM_1_3
+Added Pin To Net: NetName=NetPWM_1_4 Pin=PWM_1-4
+Added Pin To Net: NetName=NetPWM_1_4 Pin=U1-9
+Added Net: Name=NetPWM_1_4
+Added Pin To Net: NetName=NetPWM_1_5 Pin=PWM_1-5
+Added Pin To Net: NetName=NetPWM_1_5 Pin=U1-8
+Added Net: Name=NetPWM_1_5
+Added Pin To Net: NetName=NetPWM_1_6 Pin=PWM_1-6
+Added Pin To Net: NetName=NetPWM_1_6 Pin=U1-7
+Added Net: Name=NetPWM_1_6
+Added Pin To Net: NetName=NetPWM_1_7 Pin=PWM_1-7
+Added Pin To Net: NetName=NetPWM_1_7 Pin=U1-4
+Added Net: Name=NetPWM_1_7
+Added Pin To Net: NetName=NetPWM_1_8 Pin=PWM_1-8
+Added Pin To Net: NetName=NetPWM_1_8 Pin=U1-3
+Added Net: Name=NetPWM_1_8
+Added Pin To Net: NetName=NetPWM控制端口_1 Pin=PWM控制端口-1
+Added Pin To Net: NetName=NetPWM控制端口_1 Pin=U1-13
+Added Net: Name=NetPWM控制端口_1
+Added Pin To Net: NetName=NetPWM控制端口_2 Pin=PWM控制端口-2
+Added Pin To Net: NetName=NetPWM控制端口_2 Pin=U1-14
+Added Net: Name=NetPWM控制端口_2
+Added Pin To Net: NetName=NetPWM控制端口_3 Pin=PWM控制端口-3
+Added Pin To Net: NetName=NetPWM控制端口_3 Pin=U1-15
+Added Net: Name=NetPWM控制端口_3
+Added Pin To Net: NetName=NetPWM控制端口_4 Pin=PWM控制端口-4
+Added Pin To Net: NetName=NetPWM控制端口_4 Pin=U1-16
+Added Net: Name=NetPWM控制端口_4
+Added Pin To Net: NetName=NetPWM控制端口_5 Pin=PWM控制端口-5
+Added Pin To Net: NetName=NetPWM控制端口_5 Pin=U1-17
+Added Net: Name=NetPWM控制端口_5
+Added Pin To Net: NetName=NetPWM控制端口_6 Pin=PWM控制端口-6
+Added Pin To Net: NetName=NetPWM控制端口_6 Pin=U1-18
+Added Net: Name=NetPWM控制端口_6
+Added Pin To Net: NetName=NetPWM控制端口_7 Pin=PWM控制端口-7
+Added Pin To Net: NetName=NetPWM控制端口_7 Pin=U1-19
+Added Net: Name=NetPWM控制端口_7
+Added Pin To Net: NetName=NetPWM控制端口_8 Pin=PWM控制端口-8
+Added Pin To Net: NetName=NetPWM控制端口_8 Pin=U1-20
+Added Net: Name=NetPWM控制端口_8
+Added Pin To Net: NetName=NetSCK NSS_1 Pin=SCK NSS-1
+Added Pin To Net: NetName=NetSCK NSS_1 Pin=U1-43
+Added Net: Name=NetSCK NSS_1
+Added Pin To Net: NetName=NetSCK NSS_2 Pin=SCK NSS-2
+Added Pin To Net: NetName=NetSCK NSS_2 Pin=U1-44
+Added Net: Name=NetSCK NSS_2
+Added Pin To Net: NetName=NetSIP1_1 Pin=SIP1-1
+Added Pin To Net: NetName=NetSIP1_1 Pin=U1-47
+Added Net: Name=NetSIP1_1
+Added Pin To Net: NetName=NetSIP1_2 Pin=SIP1-2
+Added Pin To Net: NetName=NetSIP1_2 Pin=U2-1
+Added Net: Name=NetSIP1_2
+Added Pin To Net: NetName=NetSIP5_1 Pin=SIP5-1
+Added Pin To Net: NetName=NetSIP5_1 Pin=U1-21
+Added Net: Name=NetSIP5_1
+Added Pin To Net: NetName=NetSIP5_2 Pin=SIP5-2
+Added Pin To Net: NetName=NetSIP5_2 Pin=U1-22
+Added Net: Name=NetSIP5_2
+Added Pin To Net: NetName=NetSIP5_3 Pin=SIP5-3
+Added Pin To Net: NetName=NetSIP5_3 Pin=U1-23
+Added Net: Name=NetSIP5_3
+Added Pin To Net: NetName=NetSIP5_4 Pin=SIP5-4
+Added Pin To Net: NetName=NetSIP5_4 Pin=U1-24
+Added Net: Name=NetSIP5_4
+Added Pin To Net: NetName=NetSWCLK_1 Pin=SWCLK-1
+Added Pin To Net: NetName=NetSWCLK_1 Pin=U1-37
+Added Net: Name=NetSWCLK_1
+Added Pin To Net: NetName=NetSWCLK_2 Pin=SWCLK-2
+Added Pin To Net: NetName=NetSWCLK_2 Pin=U1-38
+Added Net: Name=NetSWCLK_2
+Added Pin To Net: NetName=NetSWCLK_3 Pin=SWCLK-3
+Added Pin To Net: NetName=NetSWCLK_3 Pin=U1-39
+Added Net: Name=NetSWCLK_3
+Added Pin To Net: NetName=NetU1_34 Pin=U1-34
+Added Pin To Net: NetName=NetU1_34 Pin=通讯端口1-1
+Added Net: Name=NetU1_34
+Added Pin To Net: NetName=NetU1_35 Pin=U1-35
+Added Pin To Net: NetName=NetU1_35 Pin=通讯端口1-2
+Added Net: Name=NetU1_35
+Added Pin To Net: NetName=NetU1_36 Pin=U1-36
+Added Pin To Net: NetName=NetU1_36 Pin=通讯端口1-3
+Added Net: Name=NetU1_36
+Added Pin To Net: NetName=NetU1_48 Pin=U1-48
+Added Pin To Net: NetName=NetU1_48 Pin=U2-2
+Added Net: Name=NetU1_48
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Pin To Net: NetName=NetU2_6 Pin=云台舵机2-1
+Added Net: Name=NetU2_6
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Pin To Net: NetName=NetU2_8 Pin=云台舵机1-1
+Added Net: Name=NetU2_8
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=步进电机1-2
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU2_10 Pin=U2-10
+Added Pin To Net: NetName=NetU2_10 Pin=步进电机1-1
+Added Net: Name=NetU2_10
+Added Pin To Net: NetName=NetU2_11 Pin=U2-11
+Added Pin To Net: NetName=NetU2_11 Pin=步进电机2-2
+Added Net: Name=NetU2_11
+Added Pin To Net: NetName=NetU2_12 Pin=U2-12
+Added Pin To Net: NetName=NetU2_12 Pin=步进电机2-1
+Added Net: Name=NetU2_12
+Added Pin To Net: NetName=NetU2_20 Pin=U2-20
+Added Pin To Net: NetName=NetU2_20 Pin=模拟量输入1-1
+Added Net: Name=NetU2_20
+Added Pin To Net: NetName=NetU2_21 Pin=U2-21
+Added Pin To Net: NetName=NetU2_21 Pin=模拟量输入2-1
+Added Net: Name=NetU2_21
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

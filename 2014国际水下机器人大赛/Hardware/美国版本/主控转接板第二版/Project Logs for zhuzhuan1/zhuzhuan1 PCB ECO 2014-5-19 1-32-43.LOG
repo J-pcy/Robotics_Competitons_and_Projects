@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=5V Pin=SIP15-2
+Removed Pin From Net: NetName=5V Pin=SIP16-2
+Removed Pin From Net: NetName=5V Pin=SIP20-2
+Removed Pin From Net: NetName=5V Pin=SIP21-2
+Removed Member From Class: ClassName=zhuzhuan1 Member=P3
+Added Component: Designator=12V POWER(SIP2-3MM)
+Added Component: Designator=U3(2596Ä£¿é)
+Added Pin To Net: NetName=12V Pin=12V POWER-1
+Added Pin To Net: NetName=GND Pin=12V POWER-2
+Added Pin To Net: NetName=24_V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=5V-D Pin=SIP20-2
+Added Pin To Net: NetName=5V-D Pin=SIP21-2
+Added Pin To Net: NetName=5V-D Pin=U3-4
+Added Net: Name=5V-D
+Added Member To Class: ClassName=zhuzhuan1 Member=Component 12V POWER SIP2
+Added Member To Class: ClassName=zhuzhuan1 Member=Component U3 2596Ä£¿é
+Added Room: Name=zhuzhuan1

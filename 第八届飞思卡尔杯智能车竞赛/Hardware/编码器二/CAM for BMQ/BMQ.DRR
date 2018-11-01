@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BMQ.pcb   9-Jul-2013   18:30:15
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.9mm (35.433mil)        26               374.19 mm (14.73 Inch)
+T2        3mm (118.11mil)          2                203.50 mm (8.01 Inch)
+T3        0.7mm (27.559mil)        10               252.83 mm (9.95 Inch)
+---------------------------------------------------------------------------
+Totals                             38               830.52 mm (32.70 Inch)
+
+Total Processing Time : 00:00:00

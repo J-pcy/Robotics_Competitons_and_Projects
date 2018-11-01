@@ -1,0 +1,20 @@
+Change Component Comment : Designator=P3 Old Comment=POWER_18*2 New Comment=继电器
+Added Component: Designator=SIP22(SIP8)
+Added Pin To Net: NetName=GND Pin=SIP22-1
+Added Pin To Net: NetName=GND Pin=SIP22-2
+Added Pin To Net: NetName=5V Pin=SIP22-3
+Added Pin To Net: NetName=5V Pin=SIP22-4
+Added Pin To Net: NetName=NetSIP22_5 Pin=SIP22-5
+Added Pin To Net: NetName=NetSIP22_5 Pin=U2-24
+Added Net: Name=NetSIP22_5
+Added Pin To Net: NetName=NetSIP22_6 Pin=SIP22-6
+Added Pin To Net: NetName=NetSIP22_6 Pin=U2-26
+Added Net: Name=NetSIP22_6
+Added Pin To Net: NetName=NetSIP22_7 Pin=SIP22-7
+Added Pin To Net: NetName=NetSIP22_7 Pin=U2-28
+Added Net: Name=NetSIP22_7
+Added Pin To Net: NetName=NetSIP22_8 Pin=SIP22-8
+Added Pin To Net: NetName=NetSIP22_8 Pin=U2-30
+Added Net: Name=NetSIP22_8
+Added Member To Class: ClassName=zhuzhuan1 Member=Component SIP22 继电器控制端口
+Added Room: Name=zhuzhuan1

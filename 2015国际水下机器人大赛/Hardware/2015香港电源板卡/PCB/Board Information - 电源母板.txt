@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : I:\机器人\水下机器人\2015香港电源板卡（马辰旭）\PCB\电源母板.PcbDoc
+Date         : 2015/3/9
+Time         : 23:22:23
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 61
+    Connections routed, 61
+    Connections remaining, 0
+count : 4

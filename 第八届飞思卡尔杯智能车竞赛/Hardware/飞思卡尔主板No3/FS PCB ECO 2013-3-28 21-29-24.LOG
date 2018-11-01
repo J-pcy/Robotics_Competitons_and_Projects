@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PT6 Pin=P?-1
+Removed Pin From Net: NetName=PT4 Pin=P?-2
+Removed Pin From Net: NetName=PT2 Pin=P?-3
+Removed Pin From Net: NetName=PT0 Pin=P?-4
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Change Component Designator: OldDesignator=P? NewDesignator=P12
+Added Pin To Net: NetName=PT6 Pin=P9-1
+Added Pin To Net: NetName=PT4 Pin=P9-2
+Added Pin To Net: NetName=PT2 Pin=P9-3
+Added Pin To Net: NetName=PT0 Pin=P9-4
+Added Pin To Net: NetName=5V Pin=P12-1
+Added Pin To Net: NetName=GND Pin=P12-2
+Added Pin To Net: NetName=PA5 Pin=P12-3
+Added Pin To Net: NetName=PA4 Pin=P12-4
+Added Member To Class: ClassName=Sheet1 Member=Component P12 Header 8

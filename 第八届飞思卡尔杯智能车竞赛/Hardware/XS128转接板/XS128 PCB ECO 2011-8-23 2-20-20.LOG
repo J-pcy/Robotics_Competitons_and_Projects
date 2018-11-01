@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=J08-1
+Removed Pin From Net: NetName=GND Pin=J08-2
+Removed Pin From Net: NetName=GND Pin=J08-3
+Removed Pin From Net: NetName=GND Pin=J08-4
+Removed Pin From Net: NetName=GND Pin=J08-5
+Removed Pin From Net: NetName=GND Pin=J08-6
+Removed Pin From Net: NetName=GND Pin=J08-7
+Removed Pin From Net: NetName=+5V Pin=J08-8
+Removed Pin From Net: NetName=+5V Pin=J08-9
+Removed Pin From Net: NetName=+5V Pin=J08-10
+Removed Pin From Net: NetName=+5V Pin=J08-11
+Removed Pin From Net: NetName=+5V Pin=J08-12
+Removed Pin From Net: NetName=+5V Pin=J08-13
+Removed Pin From Net: NetName=+5V Pin=J08-14
+Removed Pin From Net: NetName=+5V Pin=J08-15
+Removed Pin From Net: NetName=R/W Pin=J-1
+Removed Pin From Net: NetName=GND Pin=J-2
+Removed Member From Class: ClassName=XS128 Member=J08
+Removed Member From Class: ClassName=XS128 Member=J
+Added Component: Designator=P8(HDR2X8H)
+Added Component: Designator=P11(HDR1X3)
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=+5V Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=+5V Pin=P8-4
+Added Pin To Net: NetName=GND Pin=P8-5
+Added Pin To Net: NetName=+5V Pin=P8-6
+Added Pin To Net: NetName=GND Pin=P8-7
+Added Pin To Net: NetName=+5V Pin=P8-8
+Added Pin To Net: NetName=GND Pin=P8-9
+Added Pin To Net: NetName=+5V Pin=P8-10
+Added Pin To Net: NetName=GND Pin=P8-11
+Added Pin To Net: NetName=+5V Pin=P8-12
+Added Pin To Net: NetName=GND Pin=P8-13
+Added Pin To Net: NetName=+5V Pin=P8-14
+Added Pin To Net: NetName=GND Pin=P8-15
+Added Pin To Net: NetName=+5V Pin=P8-16
+Added Pin To Net: NetName=A2 Pin=P11-1
+Added Pin To Net: NetName=R/W Pin=P11-2
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Member To Class: ClassName=XS128 Member=Component P8 Header 8X2H
+Added Member To Class: ClassName=XS128 Member=Component P11 Header 3

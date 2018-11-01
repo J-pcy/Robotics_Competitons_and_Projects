@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=模拟量输入1 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=模拟量输入2 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=云台舵机1 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=云台舵机2 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Added Room: Name=Sheet1

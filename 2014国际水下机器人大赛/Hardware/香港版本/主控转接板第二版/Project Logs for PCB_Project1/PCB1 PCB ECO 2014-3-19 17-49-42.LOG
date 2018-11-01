@@ -1,0 +1,37 @@
+Change Component Comment : Designator=SIP1 Old Comment=SIP8 New Comment=PWM控制端口
+Change Component Designator: OldDesignator=SIP2 NewDesignator=云台舵机1
+Change Component Designator: OldDesignator=SIP3 NewDesignator=云台舵机2
+Change Component Designator: OldDesignator=SIP5 NewDesignator=通讯端口1
+Change Component Designator: OldDesignator=SIP6 NewDesignator=通讯端口2
+Change Component Designator: OldDesignator=SIP7 NewDesignator=模拟量输入1
+Change Component Designator: OldDesignator=SIP8 NewDesignator=模拟量输入2
+Change Component Designator: OldDesignator=SIP9 NewDesignator=SWCLK
+Change Component Designator: OldDesignator=SIP10 NewDesignator=SCK NSS
+Change Component Designator: OldDesignator=SIP11 NewDesignator=PC0 PC1
+Change Component Designator: OldDesignator=SIP13 NewDesignator=步进电机1
+Change Component Designator: OldDesignator=SIP14 NewDesignator=步进电机2
+Change Net Name : Old Net Name=NetCAN_2 New Net Name=NetCAN总线_2
+Change Net Name : Old Net Name=NetCAN_3 New Net Name=NetCAN总线_3
+Change Net Name : Old Net Name=NetSIP2_1 New Net Name=NetU1_21
+Change Net Name : Old Net Name=NetSIP3_1 New Net Name=NetU1_22
+Change Net Name : Old Net Name=NetSIP5_1 New Net Name=NetU1_34
+Change Net Name : Old Net Name=NetSIP5_2 New Net Name=NetU1_35
+Change Net Name : Old Net Name=NetSIP5_3 New Net Name=NetU1_36
+Change Net Name : Old Net Name=NetSIP6_1 New Net Name=NetU1_48
+Change Net Name : Old Net Name=NetSIP6_2 New Net Name=NetU1_47
+Change Net Name : Old Net Name=NetSIP6_3 New Net Name=NetU1_49
+Change Net Name : Old Net Name=NetSIP6_4 New Net Name=NetU1_50
+Change Net Name : Old Net Name=NetSIP7_1 New Net Name=NetU1_41
+Change Net Name : Old Net Name=NetSIP8_1 New Net Name=NetU1_42
+Change Net Name : Old Net Name=NetSIP9_1 New Net Name=NetSWCLK_1
+Change Net Name : Old Net Name=NetSIP9_2 New Net Name=NetSWCLK_2
+Change Net Name : Old Net Name=NetSIP9_3 New Net Name=NetSWCLK_3
+Change Net Name : Old Net Name=NetSIP10_1 New Net Name=NetSCK NSS_1
+Change Net Name : Old Net Name=NetSIP10_2 New Net Name=NetSCK NSS_2
+Change Net Name : Old Net Name=NetSIP11_1 New Net Name=NetPC0 PC1_1
+Change Net Name : Old Net Name=NetSIP11_2 New Net Name=NetPC0 PC1_2
+Change Net Name : Old Net Name=NetSIP13_1 New Net Name=NetU1_8
+Change Net Name : Old Net Name=NetSIP13_2 New Net Name=NetU1_7
+Change Net Name : Old Net Name=NetSIP14_1 New Net Name=NetU1_11
+Change Net Name : Old Net Name=NetSIP14_2 New Net Name=NetU1_10
+Added Room: Name=Sheet1

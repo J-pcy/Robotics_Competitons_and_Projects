@@ -1,0 +1,26 @@
+Added Component: Designator=Q1(SI2302)
+Added Component: Designator=Q2(SI2302)
+Added Component: Designator=Q3(SI2302)
+Added Component: Designator=Q4(SI2302)
+Added Component: Designator=Q5(SI2302)
+Added Pin To Net: NetName=PWM1_ Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=PWM1 Pin=Q1-3
+Added Pin To Net: NetName=PWM2_ Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=PWM2 Pin=Q2-3
+Added Pin To Net: NetName=PWM3_ Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=PWM3 Pin=Q3-3
+Added Pin To Net: NetName=PWM4_ Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=PWM4 Pin=Q4-3
+Added Pin To Net: NetName=SERVO_PWM_ Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=SERVO_PWM Pin=Q5-3
+Added Member To Class: ClassName=qudong Member=Component Q1 SI2302
+Added Member To Class: ClassName=qudong Member=Component Q2 SI2302
+Added Member To Class: ClassName=qudong Member=Component Q3 SI2302
+Added Member To Class: ClassName=qudong Member=Component Q4 SI2302
+Added Member To Class: ClassName=qudong Member=Component Q5 SI2302
+Added Room: Name=qudong

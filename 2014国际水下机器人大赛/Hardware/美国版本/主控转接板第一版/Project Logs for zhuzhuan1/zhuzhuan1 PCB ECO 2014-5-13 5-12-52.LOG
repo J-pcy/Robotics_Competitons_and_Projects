@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=5V Pin=R3-2
+Removed Pin From Net: NetName=5V Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=R9-2
+Removed Pin From Net: NetName=5V Pin=R12-2
+Removed Pin From Net: NetName=5V Pin=R15-2
+Removed Pin From Net: NetName=5V Pin=R18-2
+Removed Pin From Net: NetName=5V Pin=R21-2
+Removed Pin From Net: NetName=5V Pin=R24-2
+Removed Pin From Net: NetName=5V Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=SIP6-1
+Removed Pin From Net: NetName=5V Pin=SIP6-2
+Removed Pin From Net: NetName=5V Pin=SIP22-3
+Removed Pin From Net: NetName=5V Pin=SIP22-4
+Removed Pin From Net: NetName=5V Pin=U1-46
+Removed Pin From Net: NetName=5V Pin=U1-50
+Removed Pin From Net: NetName=5V Pin=U2-3
+Removed Member From Class: ClassName=zhuzhuan1 Member=SIP6
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=VCC Pin=R12-2
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=R18-2
+Added Pin To Net: NetName=VCC Pin=R21-2
+Added Pin To Net: NetName=VCC Pin=R24-2
+Added Pin To Net: NetName=VCC Pin=R27-2
+Added Pin To Net: NetName=VCC Pin=SIP22-3
+Added Pin To Net: NetName=VCC Pin=SIP22-4
+Added Pin To Net: NetName=VCC Pin=U1-46
+Added Pin To Net: NetName=VCC Pin=U1-50
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Net: Name=VCC
+Added Room: Name=zhuzhuan1

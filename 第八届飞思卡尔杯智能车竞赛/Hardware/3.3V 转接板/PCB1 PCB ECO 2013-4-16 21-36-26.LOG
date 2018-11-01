@@ -1,0 +1,10 @@
+Added Component: Designator=D?(LED-0)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=OUT Pin=D?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Sheet1 Member=Component D? LED0
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res2
+Added Room: Name=Sheet1

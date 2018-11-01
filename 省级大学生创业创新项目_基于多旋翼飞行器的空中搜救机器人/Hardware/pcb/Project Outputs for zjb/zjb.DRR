@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: zjb.PcbDoc   2013/10/29  22:44:24
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : zjb.TXT
+EIA File   : zjb.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7112mm (28mil)         Round          1                109.17 mm (4.30 Inch)
+T2        0.9mm (35.433mil)        Round          26               310.49 mm (12.22 Inch)
+T3        2.8mm (110.236mil)       Round          4                147.76 mm (5.82 Inch)
+T4        3mm (118.11mil)          Round          4                242.71 mm (9.56 Inch)
+---------------------------------------------------------------------------
+Totals                                            35               810.13 mm (31.89 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

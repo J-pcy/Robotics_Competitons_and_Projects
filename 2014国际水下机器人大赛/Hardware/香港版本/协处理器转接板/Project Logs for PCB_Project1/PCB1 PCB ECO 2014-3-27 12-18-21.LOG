@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetU1_7 Pin=模拟量输入1-1
+Removed Pin From Net: NetName=5V Pin=模拟量输入1-3
+Removed Pin From Net: NetName=9V Pin=模拟量输入1-4
+Removed Pin From Net: NetName=NetU1_8 Pin=模拟量输入2-1
+Removed Pin From Net: NetName=5V Pin=模拟量输入2-3
+Removed Pin From Net: NetName=9V Pin=模拟量输入2-4
+Change Component DesignItemId : Designator=模拟量输入1 Old DesignItemId=SIP4 New DesignItemId=SIP3
+Change Component DesignItemId : Designator=模拟量输入2 Old DesignItemId=SIP4 New DesignItemId=SIP3
+Change Component Footprint: Designator=模拟量输入1 Old Footprint=SIP4 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=模拟量输入2 Old Footprint=SIP4 New Footprint=SIP3-3MM
+Change Component Comment : Designator=模拟量输入1 Old Comment=SIP4 New Comment=SIP3
+Change Component Comment : Designator=模拟量输入2 Old Comment=SIP4 New Comment=SIP3
+Added Pin To Net: NetName=NetU1_8 Pin=模拟量输入1-1
+Added Pin To Net: NetName=9V Pin=模拟量输入1-3
+Added Pin To Net: NetName=NetU1_7 Pin=模拟量输入2-1
+Added Pin To Net: NetName=9V Pin=模拟量输入2-3
+Added Room: Name=Sheet1

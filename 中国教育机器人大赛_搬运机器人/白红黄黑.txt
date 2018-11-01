@@ -1,0 +1,26 @@
+//°×ºì»ÆºÚ
+  {
+    zuoz_45();
+    banyun_back_1();
+    zuoz_135_banyun();
+    push_A();
+    push_back();
+    
+    youz_90();
+    banyun_back_1();
+    zuoz_135_banyun();
+    push_A();
+    push_back();
+    
+    zuoz_90();
+    banyun_back_1();
+    youz_45_banyun();
+    push_A();
+    push_back();
+    
+    banyun_back_1();
+    youz_135_banyun();
+    push_A();
+    push_back();
+    zuoz_45();
+  }

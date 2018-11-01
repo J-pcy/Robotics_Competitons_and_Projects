@@ -1,0 +1,129 @@
+Added Component: Designator=CAN(SIP3)
+Added Component: Designator=SIP1(SIP8)
+Added Component: Designator=SIP2(SIP3)
+Added Component: Designator=SIP3(SIP3)
+Added Component: Designator=SIP5(SIP3)
+Added Component: Designator=SIP6(SIP4)
+Added Component: Designator=SIP7(SIP3)
+Added Component: Designator=SIP8(SIP3)
+Added Component: Designator=SIP9(SIP3)
+Added Component: Designator=SIP10(SIP2)
+Added Component: Designator=SIP11(SIP2)
+Added Component: Designator=SIP12(SIP2)
+Added Component: Designator=SIP13(SIP2-3MM)
+Added Component: Designator=SIP14(SIP2-3MM)
+Added Component: Designator=U1(-----STM32F407-----)
+Added Pin To Net: NetName=5V Pin=SIP2-2
+Added Pin To Net: NetName=5V Pin=SIP3-2
+Added Pin To Net: NetName=5V Pin=SIP12-1
+Added Pin To Net: NetName=5V Pin=U1-29
+Added Net: Name=5V
+Added Pin To Net: NetName=9V Pin=SIP7-3
+Added Pin To Net: NetName=9V Pin=SIP8-3
+Added Net: Name=9V
+Added Pin To Net: NetName=GND Pin=CAN-1
+Added Pin To Net: NetName=GND Pin=SIP2-3
+Added Pin To Net: NetName=GND Pin=SIP3-3
+Added Pin To Net: NetName=GND Pin=SIP7-2
+Added Pin To Net: NetName=GND Pin=SIP8-2
+Added Pin To Net: NetName=GND Pin=SIP12-2
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCAN_2 Pin=CAN-2
+Added Pin To Net: NetName=NetCAN_2 Pin=U1-6
+Added Net: Name=NetCAN_2
+Added Pin To Net: NetName=NetCAN_3 Pin=CAN-3
+Added Pin To Net: NetName=NetCAN_3 Pin=U1-5
+Added Net: Name=NetCAN_3
+Added Pin To Net: NetName=NetSIP1_1 Pin=SIP1-1
+Added Pin To Net: NetName=NetSIP1_1 Pin=U1-13
+Added Net: Name=NetSIP1_1
+Added Pin To Net: NetName=NetSIP1_2 Pin=SIP1-2
+Added Pin To Net: NetName=NetSIP1_2 Pin=U1-14
+Added Net: Name=NetSIP1_2
+Added Pin To Net: NetName=NetSIP1_3 Pin=SIP1-3
+Added Pin To Net: NetName=NetSIP1_3 Pin=U1-15
+Added Net: Name=NetSIP1_3
+Added Pin To Net: NetName=NetSIP1_4 Pin=SIP1-4
+Added Pin To Net: NetName=NetSIP1_4 Pin=U1-16
+Added Net: Name=NetSIP1_4
+Added Pin To Net: NetName=NetSIP1_5 Pin=SIP1-5
+Added Pin To Net: NetName=NetSIP1_5 Pin=U1-17
+Added Net: Name=NetSIP1_5
+Added Pin To Net: NetName=NetSIP1_6 Pin=SIP1-6
+Added Pin To Net: NetName=NetSIP1_6 Pin=U1-18
+Added Net: Name=NetSIP1_6
+Added Pin To Net: NetName=NetSIP1_7 Pin=SIP1-7
+Added Pin To Net: NetName=NetSIP1_7 Pin=U1-19
+Added Net: Name=NetSIP1_7
+Added Pin To Net: NetName=NetSIP1_8 Pin=SIP1-8
+Added Pin To Net: NetName=NetSIP1_8 Pin=U1-20
+Added Net: Name=NetSIP1_8
+Added Pin To Net: NetName=NetSIP2_1 Pin=SIP2-1
+Added Pin To Net: NetName=NetSIP2_1 Pin=U1-21
+Added Net: Name=NetSIP2_1
+Added Pin To Net: NetName=NetSIP3_1 Pin=SIP3-1
+Added Pin To Net: NetName=NetSIP3_1 Pin=U1-22
+Added Net: Name=NetSIP3_1
+Added Pin To Net: NetName=NetSIP5_1 Pin=SIP5-1
+Added Pin To Net: NetName=NetSIP5_1 Pin=U1-34
+Added Net: Name=NetSIP5_1
+Added Pin To Net: NetName=NetSIP5_2 Pin=SIP5-2
+Added Pin To Net: NetName=NetSIP5_2 Pin=U1-35
+Added Net: Name=NetSIP5_2
+Added Pin To Net: NetName=NetSIP5_3 Pin=SIP5-3
+Added Pin To Net: NetName=NetSIP5_3 Pin=U1-36
+Added Net: Name=NetSIP5_3
+Added Pin To Net: NetName=NetSIP6_1 Pin=SIP6-1
+Added Pin To Net: NetName=NetSIP6_1 Pin=U1-48
+Added Net: Name=NetSIP6_1
+Added Pin To Net: NetName=NetSIP6_2 Pin=SIP6-2
+Added Pin To Net: NetName=NetSIP6_2 Pin=U1-47
+Added Net: Name=NetSIP6_2
+Added Pin To Net: NetName=NetSIP6_3 Pin=SIP6-3
+Added Pin To Net: NetName=NetSIP6_3 Pin=U1-49
+Added Net: Name=NetSIP6_3
+Added Pin To Net: NetName=NetSIP6_4 Pin=SIP6-4
+Added Pin To Net: NetName=NetSIP6_4 Pin=U1-50
+Added Net: Name=NetSIP6_4
+Added Pin To Net: NetName=NetSIP7_1 Pin=SIP7-1
+Added Pin To Net: NetName=NetSIP7_1 Pin=U1-41
+Added Net: Name=NetSIP7_1
+Added Pin To Net: NetName=NetSIP8_1 Pin=SIP8-1
+Added Pin To Net: NetName=NetSIP8_1 Pin=U1-42
+Added Net: Name=NetSIP8_1
+Added Pin To Net: NetName=NetSIP9_1 Pin=SIP9-1
+Added Pin To Net: NetName=NetSIP9_1 Pin=U1-37
+Added Net: Name=NetSIP9_1
+Added Pin To Net: NetName=NetSIP9_2 Pin=SIP9-2
+Added Pin To Net: NetName=NetSIP9_2 Pin=U1-38
+Added Net: Name=NetSIP9_2
+Added Pin To Net: NetName=NetSIP9_3 Pin=SIP9-3
+Added Pin To Net: NetName=NetSIP9_3 Pin=U1-39
+Added Net: Name=NetSIP9_3
+Added Pin To Net: NetName=NetSIP10_1 Pin=SIP10-1
+Added Pin To Net: NetName=NetSIP10_1 Pin=U1-43
+Added Net: Name=NetSIP10_1
+Added Pin To Net: NetName=NetSIP10_2 Pin=SIP10-2
+Added Pin To Net: NetName=NetSIP10_2 Pin=U1-44
+Added Net: Name=NetSIP10_2
+Added Pin To Net: NetName=NetSIP11_1 Pin=SIP11-1
+Added Pin To Net: NetName=NetSIP11_1 Pin=U1-52
+Added Net: Name=NetSIP11_1
+Added Pin To Net: NetName=NetSIP11_2 Pin=SIP11-2
+Added Pin To Net: NetName=NetSIP11_2 Pin=U1-51
+Added Net: Name=NetSIP11_2
+Added Pin To Net: NetName=NetSIP13_1 Pin=SIP13-1
+Added Pin To Net: NetName=NetSIP13_1 Pin=U1-8
+Added Net: Name=NetSIP13_1
+Added Pin To Net: NetName=NetSIP13_2 Pin=SIP13-2
+Added Pin To Net: NetName=NetSIP13_2 Pin=U1-7
+Added Net: Name=NetSIP13_2
+Added Pin To Net: NetName=NetSIP14_1 Pin=SIP14-1
+Added Pin To Net: NetName=NetSIP14_1 Pin=U1-11
+Added Net: Name=NetSIP14_1
+Added Pin To Net: NetName=NetSIP14_2 Pin=SIP14-2
+Added Pin To Net: NetName=NetSIP14_2 Pin=U1-10
+Added Net: Name=NetSIP14_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

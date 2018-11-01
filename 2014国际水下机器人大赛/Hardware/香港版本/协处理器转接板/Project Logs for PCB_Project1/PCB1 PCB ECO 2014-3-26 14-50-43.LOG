@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU1_70 Pin=云台舵机1-1
+Removed Pin From Net: NetName=NetU1_68 Pin=云台舵机2-1
+Added Pin To Net: NetName=NetU1_68 Pin=云台舵机1-1
+Added Pin To Net: NetName=NetU1_70 Pin=云台舵机2-1
+Added Room: Name=Sheet1

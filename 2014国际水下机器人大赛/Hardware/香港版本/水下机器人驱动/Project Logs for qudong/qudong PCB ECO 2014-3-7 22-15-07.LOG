@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC-6V Pin=R10-2
+Removed Pin From Net: NetName=VCC-7.2V Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=VCC-6V Pin=U6-3
+Change Component DesignItemId : Designator=U6 Old DesignItemId=LM7806 New DesignItemId=LM7805-T
+Change Component Footprint: Designator=U6 Old Footprint=LM7806 New Footprint=LM7805-T
+Change Component Comment : Designator=U6 Old Comment=LM7806 New Comment=LM7805-T
+Added Component: Designator=D6(SS24)
+Added Component: Designator=D7(SS24)
+Added Pin To Net: NetName=VCC-5V Pin=D6-1
+Added Pin To Net: NetName=VCC-7.2V Pin=D6-2
+Added Pin To Net: NetName=VCC-7.2V Pin=D7-2
+Added Pin To Net: NetName=VCC-5V Pin=R10-2
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VCC-7.2V Pin=U6-2
+Added Pin To Net: NetName=VCC-5-SERVO Pin=D7-1
+Added Pin To Net: NetName=VCC-5-SERVO Pin=U6-3
+Added Net: Name=VCC-5-SERVO
+Added Member To Class: ClassName=qudong Member=Component D6 SS24
+Added Member To Class: ClassName=qudong Member=Component D7 SS24
+Added Room: Name=qudong

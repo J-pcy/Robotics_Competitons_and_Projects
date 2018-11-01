@@ -1,0 +1,21 @@
+---- SysTick_Handler Matches (5 in 2 files) ----
+Cpal_conf.h (c:\users\...\cpal):275
+               #define CPAL_I2C_TIMEOUT_Manager        SysTick_Handler
+
+
+Cpal_conf.h (c:\users\...\cpal):462
+                 CPAL_I2C_TIMEOUT_Manager is defined as SysTick_Handler.
+                 */
+
+Cpal_conf.h (c:\users\...\cpal):476
+//#define CPAL_I2C_TIMEOUT_Manager       SysTick_Handler         /*<! This callback is used to handle Timeout error.
+//                                                                     When a timeout occurs CPAL_TIMEOUT_UserCallback
+//                                                                     is called to handle this error */
+Cpal_conf.h (c:\users\...\cpal):482
+   void SysTick_Handler(void);  
+#endif /* CPAL_I2C_TIMEOUT_Manager */ 
+                                                                     
+Irq.c (c:\users\...\user):6
+void SysTick_Handler(void)
+{
+	OSIntEnter(); 	 //用于统计中断的嵌套层数，对嵌套层数+1

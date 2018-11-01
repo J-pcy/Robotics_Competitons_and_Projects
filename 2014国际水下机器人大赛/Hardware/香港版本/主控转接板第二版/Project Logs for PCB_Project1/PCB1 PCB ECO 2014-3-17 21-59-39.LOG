@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=SIP12-1
+Removed Pin From Net: NetName=GND Pin=SIP12-2
+Removed Member From Class: ClassName=Sheet1 Member=SIP12
+Added Component: Designator=POWER(SIP3)
+Added Pin To Net: NetName=9V Pin=POWER-1
+Added Pin To Net: NetName=5V Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Member To Class: ClassName=Sheet1 Member=Component POWER SIP3
+Added Room: Name=Sheet1

@@ -1,0 +1,19 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for BMQ.cam'
+at 18:30:15 on 9-Jul-2013 
+
+
+'NC Drill Output 1'
+'BMQ.TXT' generated
+'BMQ.DRL' generated
+'BMQ.DRR' generated
+
+'Gerber Output 1'
+'BMQ.GBL' generated
+'BMQ.GKO' generated
+'BMQ.GD1' generated
+'BMQ.GG1' generated
+'BMQ.REP' generated
+
+
+Total number of generated files = 8

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5V Pin=J4-2
+Added Pin To Net: NetName=N Pin=J4-4
+Added Net: Name=N
+Added Room: Name=XS128

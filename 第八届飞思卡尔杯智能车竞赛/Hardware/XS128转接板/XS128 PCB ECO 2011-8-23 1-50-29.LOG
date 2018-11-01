@@ -1,0 +1,4 @@
+Added Component: Designator=L2(INDUCTOR)
+Added Pin To Net: NetName=PGND Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Member To Class: ClassName=XS128 Member=Component L2 Inductor

@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: zpc1.PcbDoc   2014/5/9  13:21:36
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : zpc1.TXT
+EIA File   : zpc1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7112mm (28mil)         Round          56               781.38 mm (30.76 Inch)
+T2        0.9mm (35.433mil)        Round          95               561.02 mm (22.09 Inch)
+T3        1mm (39.37mil)           Round          10               149.23 mm (5.88 Inch)
+T4        1.016mm (40mil)          Round          74               437.18 mm (17.21 Inch)
+T5        2.9997mm (118.098mil)    Round          1                15.32 mm (0.60 Inch)
+T6        3mm (118.11mil)          Round          5                506.23 mm (19.93 Inch)
+---------------------------------------------------------------------------
+Totals                                            241              2450.36 mm (96.47 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

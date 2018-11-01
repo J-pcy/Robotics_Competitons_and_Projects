@@ -1,0 +1,4 @@
+Added Component: Designator=D1(0805µç×èÌùÆ¬)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=V_BAT Pin=D1-2
+Added Member To Class: ClassName=XS128 Member=Component D1 LED1

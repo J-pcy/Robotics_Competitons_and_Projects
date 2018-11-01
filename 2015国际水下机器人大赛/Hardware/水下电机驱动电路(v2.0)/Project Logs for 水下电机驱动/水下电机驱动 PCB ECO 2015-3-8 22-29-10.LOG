@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=24V Pin=J?-A1
+Removed Pin From Net: NetName=GND Pin=J?-A4
+Removed Pin From Net: NetName=VCC Pin=J?-A7
+Removed Pin From Net: NetName=GND Pin=J?-B4
+Added Pin To Net: NetName=VCC Pin=J?-A1
+Added Pin To Net: NetName=24V Pin=J?-A4
+Added Pin To Net: NetName=GND Pin=J?-A7
+Added Pin To Net: NetName=24V Pin=J?-B4

@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=XS128 Member=Component R7 Res2
+Added Room: Name=XS128
+Removed Pin From Net: NetName=A5 Pin=R6-2
+Added Pin To Net: NetName=K7 Pin=R6-2

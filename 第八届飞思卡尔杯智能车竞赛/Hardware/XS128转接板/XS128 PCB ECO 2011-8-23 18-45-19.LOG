@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=SCLK Pin=R?-1
+Removed Pin From Net: NetName=S5 Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Added Pin To Net: NetName=CS Pin=R4-1
+Added Pin To Net: NetName=A4 Pin=R4-2
+Added Pin To Net: NetName=MOSI Pin=R5-1
+Added Pin To Net: NetName=S5 Pin=R5-2
+Added Pin To Net: NetName=SCLK Pin=R6-1
+Added Pin To Net: NetName=A5 Pin=R6-2
+Added Pin To Net: NetName=CS Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=MOSI Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=SCLK Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Member To Class: ClassName=XS128 Member=Component R4 Res2
+Added Member To Class: ClassName=XS128 Member=Component R5 Res2
+Added Member To Class: ClassName=XS128 Member=Component R6 Res2
+Added Member To Class: ClassName=XS128 Member=Component R8 Res2
+Added Member To Class: ClassName=XS128 Member=Component R9 Res2
+Added Room: Name=XS128

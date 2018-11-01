@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=P0 Pin=J100-9
+Removed Pin From Net: NetName=P5 Pin=J100-21
+Added Pin To Net: NetName=P1 Pin=J98-2
+Added Pin To Net: NetName=P3 Pin=J98-4
+Added Room: Name=ZB
+Removed Pin From Net: NetName=K1 Pin=J98-1
+Added Pin To Net: NetName=P0 Pin=J98-1
+Removed Pin From Net: NetName=K2 Pin=J98-3
+Added Pin To Net: NetName=P2 Pin=J98-3
+Removed Pin From Net: NetName=K3 Pin=J98-5
+Added Pin To Net: NetName=P4 Pin=J98-5
+Removed Pin From Net: NetName=K4 Pin=J98-7
+Added Pin To Net: NetName=P5 Pin=J98-7
+Removed Pin From Net: NetName=P1 Pin=J100-13
+Added Pin To Net: NetName=K1 Pin=J100-13
+Removed Pin From Net: NetName=P2 Pin=J100-15
+Added Pin To Net: NetName=K2 Pin=J100-15
+Removed Pin From Net: NetName=P3 Pin=J100-17
+Added Pin To Net: NetName=K3 Pin=J100-17
+Removed Pin From Net: NetName=P4 Pin=J100-19
+Added Pin To Net: NetName=K4 Pin=J100-19

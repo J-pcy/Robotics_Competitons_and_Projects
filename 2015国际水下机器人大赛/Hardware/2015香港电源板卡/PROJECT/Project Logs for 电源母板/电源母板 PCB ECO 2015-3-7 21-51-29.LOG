@@ -1,0 +1,46 @@
+Added Component: Designator=D1(0603_LED)
+Added Component: Designator=D2(0603_LED)
+Added Component: Designator=D3(0603_LED)
+Added Component: Designator=D4(0603_LED)
+Added Component: Designator=D5(0603_LED)
+Added Component: Designator=R1(0603)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0603)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R5(0603)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=24V_IN Pin=R1-2
+Added Pin To Net: NetName=12V_OUT1 Pin=R2-2
+Added Pin To Net: NetName=12V_OUT2 Pin=R3-2
+Added Pin To Net: NetName=5V_OUT1 Pin=R4-2
+Added Pin To Net: NetName=5V_OUT2 Pin=R5-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R3-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R5-1
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=电源母板 Member=Component D1 D_LED 3MM
+Added Member To Class: ClassName=电源母板 Member=Component D2 D_LED 3MM
+Added Member To Class: ClassName=电源母板 Member=Component D3 D_LED 3MM
+Added Member To Class: ClassName=电源母板 Member=Component D4 D_LED 3MM
+Added Member To Class: ClassName=电源母板 Member=Component D5 D_LED 3MM
+Added Member To Class: ClassName=电源母板 Member=Component R1 RES
+Added Member To Class: ClassName=电源母板 Member=Component R2 RES
+Added Member To Class: ClassName=电源母板 Member=Component R3 RES
+Added Member To Class: ClassName=电源母板 Member=Component R4 RES
+Added Member To Class: ClassName=电源母板 Member=Component R5 RES
+Added Room: Name=电源母板

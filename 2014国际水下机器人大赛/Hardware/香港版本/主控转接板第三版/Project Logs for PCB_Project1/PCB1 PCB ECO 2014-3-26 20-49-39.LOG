@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Sheet1 Member=步进电机1
+Removed Member From Class: ClassName=Sheet1 Member=步进电机2
+Added Component: Designator=接口端(SIP8)
+Added Pin To Net: NetName=5V Pin=接口端-1
+Added Pin To Net: NetName=NetU1_48 Pin=接口端-3
+Added Pin To Net: NetName=GND Pin=接口端-4
+Added Pin To Net: NetName=GND Pin=接口端-5
+Added Pin To Net: NetName=9V Pin=接口端-8
+Added Pin To Net: NetName=NetU1_47 Pin=U1-47
+Added Pin To Net: NetName=NetU1_47 Pin=接口端-2
+Added Net: Name=NetU1_47
+Added Member To Class: ClassName=Sheet1 Member=Component 接口端 SIP8
+Added Room: Name=Sheet1

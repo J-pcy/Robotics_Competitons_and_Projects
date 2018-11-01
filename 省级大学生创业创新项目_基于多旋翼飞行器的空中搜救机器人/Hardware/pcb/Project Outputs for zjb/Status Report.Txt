@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [zjb.PrjPcb]
+   Generated File[zjb.TXT]
+   Generated File[zjb.DRL]
+   Generated File[zjb.LDP]
+   Generated File[zjb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:44:24 On 2013/10/29

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=DC24V_1- Pin=DC5-1
+Removed Pin From Net: NetName=DC24V_1- Pin=DC6-1
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC2-5
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC2-6
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC2-7
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC2-8
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC 48V-24V-1
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC 48V-24V-2
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC 48V-24V-3
+Removed Pin From Net: NetName=DC24V_1- Pin=DC-DC 48V-24V-4
+Removed Pin From Net: NetName=DC24V_1- Pin=POWER 48V-1
+Added Pin To Net: NetName=POWER 48V- Pin=DC5-1
+Added Pin To Net: NetName=POWER 48V- Pin=DC6-1
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-5
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-6
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-7
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-8
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-1
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-2
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-3
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-4
+Added Pin To Net: NetName=POWER 48V- Pin=POWER 48V-1
+Added Net: Name=POWER 48V-

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PH3 Pin=J97-1
+Removed Pin From Net: NetName=PH1 Pin=J97-2
+Removed Pin From Net: NetName=PH2 Pin=J97-3
+Removed Pin From Net: NetName=PH0 Pin=J97-4
+Removed Pin From Net: NetName=P0 Pin=J100-11
+Added Component: Designator=BLUETOOTH89(HDR1X4)
+Added Pin To Net: NetName=GND Pin=BLUETOOTH89-3
+Added Pin To Net: NetName=3.3V Pin=BLUETOOTH89-4
+Added Pin To Net: NetName=P0 Pin=J100-9
+Added Pin To Net: NetName=PH0 Pin=J100-12
+Added Pin To Net: NetName=PH1 Pin=J100-14
+Added Pin To Net: NetName=PH2 Pin=J100-16
+Added Pin To Net: NetName=PH3 Pin=J100-18
+Added Pin To Net: NetName=SCL Pin=BLUETOOTH89-2
+Added Pin To Net: NetName=SCL Pin=J100-11
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=BLUETOOTH89-1
+Added Pin To Net: NetName=SDA Pin=J100-10
+Added Net: Name=SDA
+Added Member To Class: ClassName=Sheet1 Member=Component BLUETOOTH89 BLUE-TOOH
+Added Room: Name=Sheet1

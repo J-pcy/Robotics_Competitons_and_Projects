@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FS3.pcb   15-Jun-2013  09:45:22
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        1mm (39.37mil)           10               161.32 mm (6.35 Inch)
+T2        0.9mm (35.433mil)        47               523.44 mm (20.61 Inch)
+T3        3mm (118.11mil)          3                246.96 mm (9.72 Inch)
+T4        0.889mm (35mil)          73               438.38 mm (17.26 Inch)
+T5        0.7mm (27.559mil)        40               562.25 mm (22.14 Inch)
+T6        0.8mm (31.496mil)        3                144.64 mm (5.69 Inch)
+T7        0.889mm (35mil)          1         NPTH   109.08 mm (4.29 Inch)
+---------------------------------------------------------------------------
+Totals                             177              2186.07 mm (86.07 Inch)
+
+Total Processing Time : 00:00:00

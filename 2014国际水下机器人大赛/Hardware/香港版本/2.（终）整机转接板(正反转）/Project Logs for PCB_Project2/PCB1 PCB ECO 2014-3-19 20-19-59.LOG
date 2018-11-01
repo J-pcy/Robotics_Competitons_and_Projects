@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=DC24V_4- Pin=SIP24-1
+Removed Pin From Net: NetName=NetCAN_2 Pin=SIP24-2
+Removed Pin From Net: NetName=NetCAN_3 Pin=SIP24-3
+Change Component DesignItemId : Designator=SIP24 Old DesignItemId=SIP3 New DesignItemId=SIP4
+Change Component Footprint: Designator=SIP24 Old Footprint=SIP3 New Footprint=SIP4
+Change Component Comment : Designator=SIP24 Old Comment=SIP3 New Comment=SIP4
+Change Component Designator: OldDesignator=DC-DC1 NewDesignator=DC-DC 48V-24V
+Added Component: Designator=POWER 48V(SIP2-3MM)
+Added Pin To Net: NetName=5V Pin=SIP24-1
+Added Pin To Net: NetName=DC24V_4- Pin=SIP24-2
+Added Pin To Net: NetName=NetCAN_2 Pin=SIP24-3
+Added Pin To Net: NetName=NetCAN_3 Pin=SIP24-4
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC2-1
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC2-2
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC2-3
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC2-4
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC 48V-24V-5
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC 48V-24V-6
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC 48V-24V-7
+Added Pin To Net: NetName=POWER 48V+ Pin=DC-DC 48V-24V-8
+Added Pin To Net: NetName=POWER 48V+ Pin=POWER 48V-2
+Added Net: Name=POWER 48V+
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-5
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-6
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-7
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC2-8
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-1
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-2
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-3
+Added Pin To Net: NetName=POWER 48V- Pin=DC-DC 48V-24V-4
+Added Pin To Net: NetName=POWER 48V- Pin=POWER 48V-1
+Added Net: Name=POWER 48V-
+Added Member To Class: ClassName=Sheet2 Member=Component POWER 48V SIP2
+Added Room: Name=Sheet2

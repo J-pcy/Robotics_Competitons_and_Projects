@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FREE SCALE.PRJPCB]
+   Generated File[FS.TXT]
+   Generated File[FS.DRL]
+   Generated File[FS.LDP]
+   Generated File[FS.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:24:02 On 2013-6-9

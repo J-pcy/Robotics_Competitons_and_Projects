@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=Sheet1 Member=PC0 PC1
+Change Component Designator: OldDesignator=POWER NewDesignator=POWER1
+Added Component: Designator=SIP5(SIP4)
+Added Component: Designator=SIP6(SIP8)
+Added Pin To Net: NetName=NetSIP5_1 Pin=SIP5-1
+Added Pin To Net: NetName=NetSIP5_1 Pin=U1-21
+Added Net: Name=NetSIP5_1
+Added Pin To Net: NetName=NetSIP5_2 Pin=SIP5-2
+Added Pin To Net: NetName=NetSIP5_2 Pin=U1-22
+Added Net: Name=NetSIP5_2
+Added Pin To Net: NetName=NetSIP5_3 Pin=SIP5-3
+Added Pin To Net: NetName=NetSIP5_3 Pin=U1-23
+Added Net: Name=NetSIP5_3
+Added Pin To Net: NetName=NetSIP5_4 Pin=SIP5-4
+Added Pin To Net: NetName=NetSIP5_4 Pin=U1-24
+Added Net: Name=NetSIP5_4
+Added Pin To Net: NetName=NetSIP6_1 Pin=SIP6-1
+Added Pin To Net: NetName=NetSIP6_1 Pin=U1-31
+Added Net: Name=NetSIP6_1
+Added Pin To Net: NetName=NetSIP6_2 Pin=SIP6-2
+Added Pin To Net: NetName=NetSIP6_2 Pin=U1-32
+Added Net: Name=NetSIP6_2
+Added Pin To Net: NetName=NetSIP6_3 Pin=SIP6-3
+Added Pin To Net: NetName=NetSIP6_3 Pin=U1-12
+Added Net: Name=NetSIP6_3
+Added Pin To Net: NetName=NetSIP6_4 Pin=SIP6-4
+Added Pin To Net: NetName=NetSIP6_4 Pin=U1-11
+Added Net: Name=NetSIP6_4
+Added Pin To Net: NetName=NetSIP6_5 Pin=SIP6-5
+Added Pin To Net: NetName=NetSIP6_5 Pin=U1-10
+Added Net: Name=NetSIP6_5
+Added Pin To Net: NetName=NetSIP6_6 Pin=SIP6-6
+Added Pin To Net: NetName=NetSIP6_6 Pin=U1-9
+Added Net: Name=NetSIP6_6
+Added Pin To Net: NetName=NetSIP6_7 Pin=SIP6-7
+Added Pin To Net: NetName=NetSIP6_7 Pin=U1-8
+Added Net: Name=NetSIP6_7
+Added Pin To Net: NetName=NetSIP6_8 Pin=SIP6-8
+Added Pin To Net: NetName=NetSIP6_8 Pin=U1-7
+Added Net: Name=NetSIP6_8
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=步进电机1-2
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=步进电机1-1
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Pin To Net: NetName=NetU1_27 Pin=云台舵机1-1
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=云台舵机2-1
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetU1_51 Pin=U1-51
+Added Pin To Net: NetName=NetU1_51 Pin=步进电机2-2
+Added Net: Name=NetU1_51
+Added Pin To Net: NetName=NetU1_52 Pin=U1-52
+Added Pin To Net: NetName=NetU1_52 Pin=步进电机2-1
+Added Net: Name=NetU1_52
+Added Member To Class: ClassName=Sheet1 Member=Component SIP5 SIP4
+Added Member To Class: ClassName=Sheet1 Member=Component SIP6 SIP8
+Added Room: Name=Sheet1

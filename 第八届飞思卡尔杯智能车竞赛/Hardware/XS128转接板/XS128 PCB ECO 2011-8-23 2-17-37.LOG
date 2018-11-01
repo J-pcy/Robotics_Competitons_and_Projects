@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PSB Pin=J10-1
+Removed Pin From Net: NetName=GND Pin=J10-2
+Removed Member From Class: ClassName=XS128 Member=J10
+Added Component: Designator=P10(HDR1X3)
+Added Pin To Net: NetName=+5V Pin=P10-1
+Added Pin To Net: NetName=PSB Pin=P10-2
+Added Pin To Net: NetName=GND Pin=P10-3
+Added Member To Class: ClassName=XS128 Member=Component P10 Header 3

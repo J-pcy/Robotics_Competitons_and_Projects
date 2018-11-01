@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU1_4 Pin=步进电机1-1
+Removed Pin From Net: NetName=NetU1_3 Pin=步进电机1-2
+Added Pin To Net: NetName=NetU1_3 Pin=步进电机1-1
+Added Pin To Net: NetName=NetU1_4 Pin=步进电机1-2
+Added Room: Name=Sheet1

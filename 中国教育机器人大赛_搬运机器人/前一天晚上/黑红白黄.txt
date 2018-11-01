@@ -1,0 +1,28 @@
+    zuoz_45();
+    //B！>3
+    banyun_back_1();
+    zuoz_135_banyun();
+    push_A();
+    push_back();
+    
+    zuoz_135();
+    //D！>2
+    banyun_back_1();
+    youz_90_banyun();
+    push_A();
+    push_back();
+    
+    youz_135();
+    //A！>4
+    banyun_back_1();
+    zuoz_45_banyun();
+    push_A();
+    push_back();
+    
+    zuoz_135();
+    //E！>1
+    banyun_back_1();
+    push_A();
+    push_back();
+    
+    youz_90();

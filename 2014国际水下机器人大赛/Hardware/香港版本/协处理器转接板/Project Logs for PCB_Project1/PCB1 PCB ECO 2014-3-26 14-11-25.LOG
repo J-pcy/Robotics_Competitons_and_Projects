@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=串口输出-1
+Removed Pin From Net: NetName=NetU1_62 Pin=串口输出-2
+Removed Pin From Net: NetName=NetU1_61 Pin=串口输出-3
+Removed Pin From Net: NetName=GND Pin=串口输出-4
+Removed Member From Class: ClassName=Sheet1 Member=串口输出
+Added Component: Designator=输出端(SIP8)
+Added Pin To Net: NetName=5V Pin=输出端-1
+Added Pin To Net: NetName=NetU1_62 Pin=输出端-2
+Added Pin To Net: NetName=NetU1_61 Pin=输出端-3
+Added Pin To Net: NetName=GND Pin=输出端-4
+Added Pin To Net: NetName=GND Pin=输出端-5
+Added Pin To Net: NetName=9V Pin=输出端-7
+Added Pin To Net: NetName=9V Pin=输出端-8
+Added Member To Class: ClassName=Sheet1 Member=Component 输出端 SIP8
+Added Room: Name=Sheet1

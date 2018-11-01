@@ -1,0 +1,7 @@
+Added Component: Designator=S1(Rockey_Switch)
+Added Pin To Net: NetName=7.2V Pin=S1-2
+Added Pin To Net: NetName=7.2V Pin=S1-2
+Added Pin To Net: NetName=NetF1_1 Pin=S1-3
+Added Pin To Net: NetName=NetF1_1 Pin=S1-3
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-SPDT
+Added Room: Name=Sheet1

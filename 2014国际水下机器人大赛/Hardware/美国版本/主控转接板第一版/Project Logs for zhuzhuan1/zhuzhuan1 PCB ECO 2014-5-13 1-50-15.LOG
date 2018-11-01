@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetSIP15_1 Pin=U2-70
+Removed Pin From Net: NetName=PWM1 Pin=U2-72
+Removed Pin From Net: NetName=PWM2 Pin=U2-73
+Removed Pin From Net: NetName=PWM3 Pin=U2-74
+Removed Pin From Net: NetName=PWM4 Pin=U2-75
+Added Component: Designator=SIP18(SIP4)
+Added Component: Designator=SIP19(SIP8*3MM)
+Added Component: Designator=SIP20(SIP3)
+Added Component: Designator=SIP21(SIP3)
+Added Pin To Net: NetName=GND Pin=SIP18-1
+Added Pin To Net: NetName=5V Pin=SIP18-4
+Added Pin To Net: NetName=GND Pin=SIP19-1
+Added Pin To Net: NetName=GND Pin=SIP19-2
+Added Pin To Net: NetName=GND Pin=SIP19-3
+Added Pin To Net: NetName=GND Pin=SIP19-4
+Added Pin To Net: NetName=12V Pin=SIP19-5
+Added Pin To Net: NetName=12V Pin=SIP19-6
+Added Pin To Net: NetName=12V Pin=SIP19-7
+Added Pin To Net: NetName=12V Pin=SIP19-8
+Added Pin To Net: NetName=5V Pin=SIP20-2
+Added Pin To Net: NetName=GND Pin=SIP20-3
+Added Pin To Net: NetName=5V Pin=SIP21-2
+Added Pin To Net: NetName=GND Pin=SIP21-3
+Added Pin To Net: NetName=NetSIP15_1 Pin=U2-69
+Added Pin To Net: NetName=PWM1 Pin=U2-70
+Added Pin To Net: NetName=PWM2 Pin=U2-71
+Added Pin To Net: NetName=PWM3 Pin=U2-72
+Added Pin To Net: NetName=PWM4 Pin=U2-73
+Added Pin To Net: NetName=DUO1 Pin=SIP18-3
+Added Pin To Net: NetName=DUO1 Pin=U2-75
+Added Net: Name=DUO1
+Added Pin To Net: NetName=DUO2 Pin=SIP18-2
+Added Pin To Net: NetName=DUO2 Pin=U2-74
+Added Net: Name=DUO2
+Added Pin To Net: NetName=NetSIP20_1 Pin=SIP20-1
+Added Pin To Net: NetName=NetSIP20_1 Pin=U2-77
+Added Net: Name=NetSIP20_1
+Added Pin To Net: NetName=NetSIP21_1 Pin=SIP21-1
+Added Pin To Net: NetName=NetSIP21_1 Pin=U2-76
+Added Net: Name=NetSIP21_1
+Added Member To Class: ClassName=zhuzhuan1 Member=Component SIP18 舵机端口9
+Added Member To Class: ClassName=zhuzhuan1 Member=Component SIP19 LED接口
+Added Member To Class: ClassName=zhuzhuan1 Member=Component SIP20 接近开关1
+Added Member To Class: ClassName=zhuzhuan1 Member=Component SIP21 接近开关2
+Added Room: Name=zhuzhuan1

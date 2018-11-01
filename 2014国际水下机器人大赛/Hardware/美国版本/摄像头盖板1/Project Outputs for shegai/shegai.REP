@@ -1,0 +1,26 @@
+*************************************************************
+FileName = shegai.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : shegai.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : shegai.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

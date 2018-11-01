@@ -1,0 +1,150 @@
+Added Component: Designator=SIP15(SIP4)
+Added Component: Designator=SIP16(SIP3)
+Added Component: Designator=SIP17(SIP3)
+Added Component: Designator=SIP18(SIP3)
+Added Component: Designator=SIP19(DIP8-3MM)
+Added Component: Designator=SIP20(DIP8-3MM)
+Added Component: Designator=SIP21(SIP3)
+Added Component: Designator=SIP22(SIP3)
+Added Component: Designator=SIP23(SIP3)
+Added Component: Designator=SIP24(SIP3)
+Added Component: Designator=SIP25(SIP3)
+Added Component: Designator=SIP26(SIP3)
+Added Component: Designator=SIP27(SIP2)
+Added Component: Designator=SIP28(SIP2)
+Added Pin To Net: NetName=9V Pin=POWER-1
+Added Pin To Net: NetName=5V Pin=POWER-2
+Added Pin To Net: NetName=PWM1 Pin=SIP1-1
+Added Pin To Net: NetName=PWM2 Pin=SIP1-2
+Added Pin To Net: NetName=PWM3 Pin=SIP1-3
+Added Pin To Net: NetName=PWM4 Pin=SIP1-4
+Added Pin To Net: NetName=PWM5 Pin=SIP1-5
+Added Pin To Net: NetName=PWM6 Pin=SIP1-6
+Added Pin To Net: NetName=PWM7 Pin=SIP1-7
+Added Pin To Net: NetName=PWM8 Pin=SIP1-8
+Added Pin To Net: NetName=5V Pin=SIP2-2
+Added Pin To Net: NetName=5V Pin=SIP3-2
+Added Pin To Net: NetName=9V Pin=SIP7-3
+Added Pin To Net: NetName=9V Pin=SIP8-3
+Added Pin To Net: NetName=9V Pin=SIP16-1
+Added Pin To Net: NetName=5V Pin=SIP16-2
+Added Pin To Net: NetName=5V Pin=SIP17-2
+Added Pin To Net: NetName=5V Pin=SIP18-2
+Added Pin To Net: NetName=DC24V_4- Pin=SIP19-1
+Added Pin To Net: NetName=DC24V_4+ Pin=SIP19-2
+Added Pin To Net: NetName=DC24V_3- Pin=SIP19-3
+Added Pin To Net: NetName=DC24V_3+ Pin=SIP19-4
+Added Pin To Net: NetName=DC24V_2- Pin=SIP19-5
+Added Pin To Net: NetName=DC24V_2+ Pin=SIP19-6
+Added Pin To Net: NetName=DC24V_1- Pin=SIP19-7
+Added Pin To Net: NetName=DC24V_1+ Pin=SIP19-8
+Added Pin To Net: NetName=OUT4 Pin=SIP20-1
+Added Pin To Net: NetName=DC24V_2+ Pin=SIP20-2
+Added Pin To Net: NetName=OUT3 Pin=SIP20-3
+Added Pin To Net: NetName=DC24V_2+ Pin=SIP20-4
+Added Pin To Net: NetName=OUT2 Pin=SIP20-5
+Added Pin To Net: NetName=DC24V_1+ Pin=SIP20-6
+Added Pin To Net: NetName=OUT1 Pin=SIP20-7
+Added Pin To Net: NetName=DC24V_1+ Pin=SIP20-8
+Added Pin To Net: NetName=9V Pin=SIP23-1
+Added Pin To Net: NetName=5V Pin=SIP23-2
+Added Pin To Net: NetName=9V Pin=SIP25-3
+Added Pin To Net: NetName=9V Pin=SIP26-3
+Added Pin To Net: NetName=GND Pin=CAN-1
+Added Pin To Net: NetName=GND Pin=POWER-3
+Added Pin To Net: NetName=GND Pin=SIP2-3
+Added Pin To Net: NetName=GND Pin=SIP3-3
+Added Pin To Net: NetName=GND Pin=SIP7-2
+Added Pin To Net: NetName=GND Pin=SIP8-2
+Added Pin To Net: NetName=GND Pin=SIP16-3
+Added Pin To Net: NetName=GND Pin=SIP17-3
+Added Pin To Net: NetName=GND Pin=SIP18-3
+Added Pin To Net: NetName=GND Pin=SIP23-3
+Added Pin To Net: NetName=GND Pin=SIP24-1
+Added Pin To Net: NetName=GND Pin=SIP25-2
+Added Pin To Net: NetName=GND Pin=SIP26-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCAN_2 Pin=CAN-2
+Added Pin To Net: NetName=NetCAN_2 Pin=SIP24-2
+Added Net: Name=NetCAN_2
+Added Pin To Net: NetName=NetCAN_3 Pin=CAN-3
+Added Pin To Net: NetName=NetCAN_3 Pin=SIP24-3
+Added Net: Name=NetCAN_3
+Added Pin To Net: NetName=NetSIP2_1 Pin=SIP2-1
+Added Pin To Net: NetName=NetSIP2_1 Pin=SIP17-1
+Added Net: Name=NetSIP2_1
+Added Pin To Net: NetName=NetSIP3_1 Pin=SIP3-1
+Added Pin To Net: NetName=NetSIP3_1 Pin=SIP18-1
+Added Net: Name=NetSIP3_1
+Added Pin To Net: NetName=NetSIP5_1 Pin=SIP5-1
+Added Pin To Net: NetName=NetSIP5_1 Pin=SIP21-1
+Added Net: Name=NetSIP5_1
+Added Pin To Net: NetName=NetSIP5_2 Pin=SIP5-2
+Added Pin To Net: NetName=NetSIP5_2 Pin=SIP21-2
+Added Net: Name=NetSIP5_2
+Added Pin To Net: NetName=NetSIP5_3 Pin=SIP5-3
+Added Pin To Net: NetName=NetSIP5_3 Pin=SIP21-3
+Added Net: Name=NetSIP5_3
+Added Pin To Net: NetName=NetSIP6_1 Pin=SIP6-1
+Added Pin To Net: NetName=NetSIP6_1 Pin=SIP15-4
+Added Net: Name=NetSIP6_1
+Added Pin To Net: NetName=NetSIP6_2 Pin=SIP6-2
+Added Pin To Net: NetName=NetSIP6_2 Pin=SIP15-3
+Added Net: Name=NetSIP6_2
+Added Pin To Net: NetName=NetSIP6_3 Pin=SIP6-3
+Added Pin To Net: NetName=NetSIP6_3 Pin=SIP15-2
+Added Net: Name=NetSIP6_3
+Added Pin To Net: NetName=NetSIP6_4 Pin=SIP6-4
+Added Pin To Net: NetName=NetSIP6_4 Pin=SIP15-1
+Added Net: Name=NetSIP6_4
+Added Pin To Net: NetName=NetSIP7_1 Pin=SIP7-1
+Added Pin To Net: NetName=NetSIP7_1 Pin=SIP25-1
+Added Net: Name=NetSIP7_1
+Added Pin To Net: NetName=NetSIP8_1 Pin=SIP8-1
+Added Pin To Net: NetName=NetSIP8_1 Pin=SIP26-1
+Added Net: Name=NetSIP8_1
+Added Pin To Net: NetName=NetSIP9_1 Pin=SIP9-1
+Added Pin To Net: NetName=NetSIP9_1 Pin=SIP22-1
+Added Net: Name=NetSIP9_1
+Added Pin To Net: NetName=NetSIP9_2 Pin=SIP9-2
+Added Pin To Net: NetName=NetSIP9_2 Pin=SIP22-2
+Added Net: Name=NetSIP9_2
+Added Pin To Net: NetName=NetSIP9_3 Pin=SIP9-3
+Added Pin To Net: NetName=NetSIP9_3 Pin=SIP22-3
+Added Net: Name=NetSIP9_3
+Added Pin To Net: NetName=NetSIP10_1 Pin=SIP10-1
+Added Pin To Net: NetName=NetSIP10_1 Pin=SIP27-1
+Added Net: Name=NetSIP10_1
+Added Pin To Net: NetName=NetSIP10_2 Pin=SIP10-2
+Added Pin To Net: NetName=NetSIP10_2 Pin=SIP27-2
+Added Net: Name=NetSIP10_2
+Added Pin To Net: NetName=NetSIP11_1 Pin=SIP11-1
+Added Pin To Net: NetName=NetSIP11_1 Pin=SIP28-1
+Added Net: Name=NetSIP11_1
+Added Pin To Net: NetName=NetSIP11_2 Pin=SIP11-2
+Added Pin To Net: NetName=NetSIP11_2 Pin=SIP28-2
+Added Net: Name=NetSIP11_2
+Added Member To Class: ClassName=Sheet2 Member=Component CAN SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component POWER SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP5 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP6 SIP4
+Added Member To Class: ClassName=Sheet2 Member=Component SIP7 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP8 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP9 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP10 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component SIP11 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component SIP15 SIP4
+Added Member To Class: ClassName=Sheet2 Member=Component SIP16 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP17 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP18 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP19 SIP8
+Added Member To Class: ClassName=Sheet2 Member=Component SIP20 SIP8
+Added Member To Class: ClassName=Sheet2 Member=Component SIP21 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP22 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP23 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP24 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP25 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP26 SIP3
+Added Member To Class: ClassName=Sheet2 Member=Component SIP27 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component SIP28 SIP2
+Added Room: Name=Sheet2

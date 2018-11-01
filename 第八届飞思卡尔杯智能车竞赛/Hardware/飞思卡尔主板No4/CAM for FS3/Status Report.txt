@@ -1,0 +1,20 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for FS3.cam'
+at 09:45:22 on 15-Jun-2013
+
+
+'NC Drill Output 1'
+'FS3.TXT' generated
+'FS3.DRL' generated
+'FS3.DRR' generated
+
+'Gerber Output 1'
+'FS3.GTL' generated
+'FS3.GBL' generated
+'FS3.GKO' generated
+'FS3.GD1' generated
+'FS3.GG1' generated
+'FS3.REP' generated
+
+
+Total number of generated files = 9

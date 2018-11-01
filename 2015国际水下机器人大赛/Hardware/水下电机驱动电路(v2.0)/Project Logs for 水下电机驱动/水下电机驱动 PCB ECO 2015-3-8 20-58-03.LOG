@@ -1,0 +1,30 @@
+Added Component: Designator=U3(SOP14-700)
+Added Component: Designator=U7(SOP14-700)
+Added Pin To Net: NetName=IN1A Pin=U3-1
+Added Pin To Net: NetName=SD1 Pin=U3-2
+Added Pin To Net: NetName=NetU1_1 Pin=U3-3
+Added Pin To Net: NetName=SD1 Pin=U3-4
+Added Pin To Net: NetName=IN1B Pin=U3-5
+Added Pin To Net: NetName=NetU2_1 Pin=U3-6
+Added Pin To Net: NetName=NetU2_2 Pin=U3-8
+Added Pin To Net: NetName=NetU2_1 Pin=U3-9
+Added Pin To Net: NetName=NetU2_1 Pin=U3-10
+Added Pin To Net: NetName=NetU1_2 Pin=U3-11
+Added Pin To Net: NetName=NetU1_1 Pin=U3-12
+Added Pin To Net: NetName=NetU1_1 Pin=U3-13
+Added Pin To Net: NetName=IN2A Pin=U7-1
+Added Pin To Net: NetName=SD2 Pin=U7-2
+Added Pin To Net: NetName=NetU5_1 Pin=U7-3
+Added Pin To Net: NetName=SD2 Pin=U7-4
+Added Pin To Net: NetName=IN2B Pin=U7-5
+Added Pin To Net: NetName=NetU6_1 Pin=U7-6
+Added Pin To Net: NetName=NetU6_2 Pin=U7-8
+Added Pin To Net: NetName=NetU6_1 Pin=U7-9
+Added Pin To Net: NetName=NetU6_1 Pin=U7-10
+Added Pin To Net: NetName=NetU5_2 Pin=U7-11
+Added Pin To Net: NetName=NetU5_1 Pin=U7-12
+Added Pin To Net: NetName=NetU5_1 Pin=U7-13
+Added Member To Class: ClassName=MOS管电机驱动电路 Member=Component U3 74HC00
+Added Member To Class: ClassName=MOS管电机驱动电路 Member=Component U7 74HC00
+Added Room: Name=MOS管电机驱动电路
+Added Room: Name=SX1308升压电路

@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GKO]
+   Generated File[PCB1.RUL]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 15:02:28 On 2014/3/27

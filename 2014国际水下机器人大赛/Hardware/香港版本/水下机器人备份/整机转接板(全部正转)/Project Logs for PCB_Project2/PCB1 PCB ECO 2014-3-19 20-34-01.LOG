@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetSIP7_1 Pin=SIP25-1
+Removed Pin From Net: NetName=NetSIP8_1 Pin=SIP26-1
+Added Pin To Net: NetName=NetSIP8_1 Pin=SIP25-1
+Added Pin To Net: NetName=NetSIP7_1 Pin=SIP26-1
+Added Room: Name=Sheet2

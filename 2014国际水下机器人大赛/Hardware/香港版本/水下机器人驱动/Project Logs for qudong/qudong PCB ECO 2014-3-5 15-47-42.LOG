@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=T1 Pin=R23-1
+Removed Pin From Net: NetName=T2 Pin=R24-1
+Removed Pin From Net: NetName=T1 Pin=SIP2-3
+Removed Pin From Net: NetName=T2 Pin=SIP2-4
+Added Pin To Net: NetName=T2 Pin=R23-1
+Added Pin To Net: NetName=T1 Pin=R24-1
+Added Pin To Net: NetName=T2 Pin=SIP2-3
+Added Pin To Net: NetName=T1 Pin=SIP2-4
+Added Pin To Net: NetName=VCC-7.2V Pin=U5-2
+Added Room: Name=qudong

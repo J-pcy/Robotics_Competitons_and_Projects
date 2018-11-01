@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=PWM1 Pin=SIP1-1
+Removed Pin From Net: NetName=PWM2 Pin=SIP1-2
+Removed Pin From Net: NetName=PWM3 Pin=SIP1-3
+Removed Pin From Net: NetName=PWM4 Pin=SIP1-4
+Removed Pin From Net: NetName=PWM5 Pin=SIP1-5
+Removed Pin From Net: NetName=PWM6 Pin=SIP1-6
+Removed Pin From Net: NetName=PWM7 Pin=SIP1-7
+Removed Pin From Net: NetName=PWM8 Pin=SIP1-8
+Removed Member From Class: ClassName=Sheet2 Member=SIP11
+Removed Member From Class: ClassName=Sheet2 Member=SIP11
+Added Pin To Net: NetName=T1_1 Pin=SIP1-4
+Added Net: Name=T1_1
+Added Pin To Net: NetName=T1_2 Pin=SIP1-3
+Added Net: Name=T1_2
+Added Pin To Net: NetName=T1_3 Pin=SIP1-2
+Added Net: Name=T1_3
+Added Pin To Net: NetName=T1_4 Pin=SIP1-1
+Added Net: Name=T1_4
+Added Pin To Net: NetName=T5_1 Pin=SIP1-8
+Added Net: Name=T5_1
+Added Pin To Net: NetName=T5_2 Pin=SIP1-7
+Added Net: Name=T5_2
+Added Pin To Net: NetName=T5_3 Pin=SIP1-6
+Added Net: Name=T5_3
+Added Pin To Net: NetName=T5_4 Pin=SIP1-5
+Added Net: Name=T5_4
+Added Room: Name=Sheet2

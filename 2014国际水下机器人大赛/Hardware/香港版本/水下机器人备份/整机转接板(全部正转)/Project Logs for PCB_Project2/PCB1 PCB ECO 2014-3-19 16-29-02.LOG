@@ -1,0 +1,29 @@
+Added Component: Designator=DC-DC1(DIP8-3MM)
+Added Component: Designator=DC-DC2(DIP8-3MM)
+Added Pin To Net: NetName=NetDC-DC1_1 Pin=DC-DC1-1
+Added Pin To Net: NetName=NetDC-DC1_1 Pin=DC-DC2-8
+Added Net: Name=NetDC-DC1_1
+Added Pin To Net: NetName=NetDC-DC1_2 Pin=DC-DC1-2
+Added Pin To Net: NetName=NetDC-DC1_2 Pin=DC-DC2-7
+Added Net: Name=NetDC-DC1_2
+Added Pin To Net: NetName=NetDC-DC1_3 Pin=DC-DC1-3
+Added Pin To Net: NetName=NetDC-DC1_3 Pin=DC-DC2-6
+Added Net: Name=NetDC-DC1_3
+Added Pin To Net: NetName=NetDC-DC1_4 Pin=DC-DC1-4
+Added Pin To Net: NetName=NetDC-DC1_4 Pin=DC-DC2-5
+Added Net: Name=NetDC-DC1_4
+Added Pin To Net: NetName=NetDC-DC1_5 Pin=DC-DC1-5
+Added Pin To Net: NetName=NetDC-DC1_5 Pin=DC-DC2-4
+Added Net: Name=NetDC-DC1_5
+Added Pin To Net: NetName=NetDC-DC1_6 Pin=DC-DC1-6
+Added Pin To Net: NetName=NetDC-DC1_6 Pin=DC-DC2-3
+Added Net: Name=NetDC-DC1_6
+Added Pin To Net: NetName=NetDC-DC1_7 Pin=DC-DC1-7
+Added Pin To Net: NetName=NetDC-DC1_7 Pin=DC-DC2-2
+Added Net: Name=NetDC-DC1_7
+Added Pin To Net: NetName=NetDC-DC1_8 Pin=DC-DC1-8
+Added Pin To Net: NetName=NetDC-DC1_8 Pin=DC-DC2-1
+Added Net: Name=NetDC-DC1_8
+Added Member To Class: ClassName=Sheet2 Member=Component DC-DC1 SIP8
+Added Member To Class: ClassName=Sheet2 Member=Component DC-DC2 SIP8
+Added Room: Name=Sheet2

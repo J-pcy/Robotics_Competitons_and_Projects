@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=SIP22-3
+Removed Pin From Net: NetName=GND Pin=SIP22-4
+Removed Pin From Net: NetName=NetSIP22_5 Pin=U2-24
+Removed Pin From Net: NetName=NetSIP22_6 Pin=U2-26
+Added Pin To Net: NetName=GND Pin=SIP22-7
+Added Pin To Net: NetName=GND Pin=SIP22-8
+Added Pin To Net: NetName=NetSIP22_5 Pin=U2-28
+Added Pin To Net: NetName=NetSIP22_6 Pin=U2-30
+Added Pin To Net: NetName=NetSIP22_3 Pin=SIP22-3
+Added Pin To Net: NetName=NetSIP22_3 Pin=U2-24
+Added Net: Name=NetSIP22_3
+Added Pin To Net: NetName=NetSIP22_4 Pin=SIP22-4
+Added Pin To Net: NetName=NetSIP22_4 Pin=U2-26
+Added Net: Name=NetSIP22_4
+Added Room: Name=zhuzhuan1

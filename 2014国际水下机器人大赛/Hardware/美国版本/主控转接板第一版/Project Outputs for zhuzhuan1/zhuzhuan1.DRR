@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: zhuzhuan1.PcbDoc   2014/5/13  20:14:09
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : zhuzhuan1.TXT
+EIA File   : zhuzhuan1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7112mm (28mil)         Round          2                14.86 mm (0.58 Inch)
+T2        0.8382mm (33mil)         Round          82               1195.79 mm (47.08 Inch)
+T3        1.0998mm (43.299mil)     Round          21               162.92 mm (6.41 Inch)
+T4        1.1mm (43.307mil)        Round          3                66.98 mm (2.64 Inch)
+T5        1.143mm (45mil)          Round          204              1166.28 mm (45.92 Inch)
+T6        1.2mm (47.244mil)        Round          108              993.09 mm (39.10 Inch)
+T7        1.397mm (55mil)          Round          6                262.78 mm (10.35 Inch)
+T8        3mm (118.11mil)          Round          14               1233.42 mm (48.56 Inch)
+---------------------------------------------------------------------------
+Totals                                            440              5096.12 mm (200.63 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

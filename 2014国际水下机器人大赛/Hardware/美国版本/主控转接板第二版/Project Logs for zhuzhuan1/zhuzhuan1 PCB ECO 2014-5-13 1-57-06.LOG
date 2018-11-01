@@ -1,0 +1,4 @@
+Change Component Comment : Designator=SIP6 Old Comment=5V电源 New Comment=POWER
+Change Component Comment : Designator=U2 Old Comment=辅助控制器 New Comment=ARDUINO 2560
+Change Component Comment : Designator=U1 Old Comment=主控制器 New Comment=------STM32F407------
+Added Room: Name=zhuzhuan1

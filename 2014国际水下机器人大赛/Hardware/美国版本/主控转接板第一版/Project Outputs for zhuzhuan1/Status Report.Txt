@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [zhuzhuan1.PrjPcb]
+   Generated File[zhuzhuan1.TXT]
+   Generated File[zhuzhuan1.DRL]
+   Generated File[zhuzhuan1.LDP]
+   Generated File[zhuzhuan1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:14:09 On 2014/5/13

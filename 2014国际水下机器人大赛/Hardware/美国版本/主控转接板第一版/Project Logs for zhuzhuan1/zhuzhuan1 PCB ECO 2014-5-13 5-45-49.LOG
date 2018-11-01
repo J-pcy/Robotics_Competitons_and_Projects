@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWM1 Pin=U2-70
+Removed Pin From Net: NetName=PWM2 Pin=U2-71
+Removed Pin From Net: NetName=PWM3 Pin=U2-72
+Removed Pin From Net: NetName=PWM4 Pin=U2-73
+Added Pin To Net: NetName=PWM4 Pin=U2-70
+Added Pin To Net: NetName=PWM3 Pin=U2-71
+Added Pin To Net: NetName=PWM2 Pin=U2-72
+Added Pin To Net: NetName=PWM1 Pin=U2-73
+Added Room: Name=zhuzhuan1

@@ -1,0 +1,10 @@
+Added Component: Designator=SIP1(SIP3)
+Added Pin To Net: NetName=GND Pin=SIP1-3
+Added Pin To Net: NetName=NetSIP1_1 Pin=SIP1-1
+Added Pin To Net: NetName=NetSIP1_1 Pin=U1-47
+Added Net: Name=NetSIP1_1
+Added Pin To Net: NetName=NetSIP1_2 Pin=SIP1-2
+Added Pin To Net: NetName=NetSIP1_2 Pin=U2-1
+Added Net: Name=NetSIP1_2
+Added Member To Class: ClassName=Sheet1 Member=Component SIP1 SIP3
+Added Room: Name=Sheet1

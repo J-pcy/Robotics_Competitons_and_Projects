@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CFB_1 Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D5-3
+Removed Pin From Net: NetName=CFB_2 Pin=D10-2
+Removed Pin From Net: NetName=GND Pin=D10-3
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=D5
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=D10
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R14-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=R29-2
+Added Net: Name=NetR24_1

@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: houzhuan1.PcbDoc   2014/5/25  22:42:36
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : houzhuan1.TXT
+EIA File   : houzhuan1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        3mm (118.11mil)          Round          44               687.84 mm (27.08 Inch)
+T2        8mm (314.961mil)         Round          8                671.79 mm (26.45 Inch)
+---------------------------------------------------------------------------
+Totals                                            52               1359.63 mm (53.53 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

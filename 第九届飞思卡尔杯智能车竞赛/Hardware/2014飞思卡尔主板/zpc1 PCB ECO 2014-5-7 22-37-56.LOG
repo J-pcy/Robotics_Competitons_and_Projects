@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=P0 Pin=J100-9
+Added Pin To Net: NetName=PH3 Pin=J100-18
+Added Pin To Net: NetName=L1 Pin=BM1-4
+Added Pin To Net: NetName=L1 Pin=J99-6
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=BM1-3
+Added Pin To Net: NetName=L2 Pin=J99-5
+Added Net: Name=L2
+Added Pin To Net: NetName=R1 Pin=BM2-1
+Added Pin To Net: NetName=R1 Pin=J99-8
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=BM2-2
+Added Pin To Net: NetName=R2 Pin=J99-7
+Added Net: Name=R2
+Added Room: Name=Sheet1

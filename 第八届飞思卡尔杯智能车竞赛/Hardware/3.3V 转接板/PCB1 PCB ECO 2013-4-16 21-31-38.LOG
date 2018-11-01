@@ -1,0 +1,25 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=P1(AMS1117-223)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR1X2)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=OUT Pin=C2-2
+Added Pin To Net: NetName=OUT Pin=P1-2
+Added Pin To Net: NetName=OUT Pin=P2-1
+Added Pin To Net: NetName=OUT Pin=P4-1
+Added Net: Name=OUT
+Added Pin To Net: NetName=VIN Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=P1-3
+Added Pin To Net: NetName=VIN Pin=P3-2
+Added Net: Name=VIN
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

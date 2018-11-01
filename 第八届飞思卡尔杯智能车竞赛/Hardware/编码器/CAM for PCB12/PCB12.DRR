@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB12.pcb   4-May-2013   11:18:17
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        3mm (118.11mil)          4                204.56 mm (8.05 Inch)
+T2        0.9mm (35.433mil)        16               218.12 mm (8.59 Inch)
+---------------------------------------------------------------------------
+Totals                             20               422.69 mm (16.64 Inch)
+
+Total Processing Time : 00:00:00

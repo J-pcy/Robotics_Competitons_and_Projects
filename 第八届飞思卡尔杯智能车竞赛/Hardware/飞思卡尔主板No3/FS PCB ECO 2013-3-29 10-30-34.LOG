@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PA4 Pin=P10-5
+Added Pin To Net: NetName=PA6 Pin=P10-5
+Added Pin To Net: NetName=PA6 Pin=U1-51
+Added Net: Name=PA6
+Added Room: Name=Sheet1

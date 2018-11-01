@@ -1,0 +1,9 @@
+Added Room: Name=ZB
+Removed Pin From Net: NetName=L2 Pin=BM1-3
+Added Pin To Net: NetName=L1 Pin=BM1-3
+Removed Pin From Net: NetName=L1 Pin=BM1-4
+Added Pin To Net: NetName=L2 Pin=BM1-4
+Removed Pin From Net: NetName=R1 Pin=BM2-1
+Added Pin To Net: NetName=R2 Pin=BM2-1
+Removed Pin From Net: NetName=R2 Pin=BM2-2
+Added Pin To Net: NetName=R1 Pin=BM2-2

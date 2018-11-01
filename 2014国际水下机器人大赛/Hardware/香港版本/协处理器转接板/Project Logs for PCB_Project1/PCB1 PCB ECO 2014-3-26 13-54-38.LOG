@@ -1,0 +1,53 @@
+Added Component: Designator=U1(ARDUINO 2560)
+Added Component: Designator=步进电机1(SIP2-3MM)
+Added Component: Designator=步进电机2(SIP2-3MM)
+Added Component: Designator=串口输出(SIP4)
+Added Component: Designator=模拟量输入1(SIP3-3MM)
+Added Component: Designator=模拟量输入2(SIP3-3MM)
+Added Component: Designator=云台舵机1(SIP3-3MM)
+Added Component: Designator=云台舵机2(SIP3-3MM)
+Added Pin To Net: NetName=5V Pin=串口输出-1
+Added Pin To Net: NetName=5V Pin=云台舵机1-2
+Added Pin To Net: NetName=5V Pin=云台舵机2-2
+Added Net: Name=5V
+Added Pin To Net: NetName=9V Pin=模拟量输入1-3
+Added Pin To Net: NetName=9V Pin=模拟量输入2-3
+Added Net: Name=9V
+Added Pin To Net: NetName=GND Pin=串口输出-4
+Added Pin To Net: NetName=GND Pin=模拟量输入1-2
+Added Pin To Net: NetName=GND Pin=模拟量输入2-2
+Added Pin To Net: NetName=GND Pin=云台舵机1-3
+Added Pin To Net: NetName=GND Pin=云台舵机2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=模拟量输入2-1
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=模拟量输入1-1
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_61 Pin=U1-61
+Added Pin To Net: NetName=NetU1_61 Pin=串口输出-3
+Added Net: Name=NetU1_61
+Added Pin To Net: NetName=NetU1_62 Pin=U1-62
+Added Pin To Net: NetName=NetU1_62 Pin=串口输出-2
+Added Net: Name=NetU1_62
+Added Pin To Net: NetName=NetU1_68 Pin=U1-68
+Added Pin To Net: NetName=NetU1_68 Pin=云台舵机2-1
+Added Net: Name=NetU1_68
+Added Pin To Net: NetName=NetU1_70 Pin=U1-70
+Added Pin To Net: NetName=NetU1_70 Pin=云台舵机1-1
+Added Net: Name=NetU1_70
+Added Pin To Net: NetName=NetU1_71 Pin=U1-71
+Added Pin To Net: NetName=NetU1_71 Pin=步进电机1-2
+Added Net: Name=NetU1_71
+Added Pin To Net: NetName=NetU1_72 Pin=U1-72
+Added Pin To Net: NetName=NetU1_72 Pin=步进电机1-1
+Added Net: Name=NetU1_72
+Added Pin To Net: NetName=NetU1_73 Pin=U1-73
+Added Pin To Net: NetName=NetU1_73 Pin=步进电机2-2
+Added Net: Name=NetU1_73
+Added Pin To Net: NetName=NetU1_74 Pin=U1-74
+Added Pin To Net: NetName=NetU1_74 Pin=步进电机2-1
+Added Net: Name=NetU1_74
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

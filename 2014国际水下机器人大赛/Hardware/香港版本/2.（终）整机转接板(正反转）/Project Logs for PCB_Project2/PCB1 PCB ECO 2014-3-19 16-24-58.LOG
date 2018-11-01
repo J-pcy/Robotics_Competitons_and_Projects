@@ -1,0 +1,9 @@
+Added Component: Designator=LED1(SIP2-3MM)
+Added Component: Designator=LED2(SIP2-3MM)
+Added Pin To Net: NetName=DC24V_4- Pin=LED1-1
+Added Pin To Net: NetName=12V_1 Pin=LED1-2
+Added Pin To Net: NetName=DC24V_4- Pin=LED2-1
+Added Pin To Net: NetName=12V_2 Pin=LED2-2
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 SIP2
+Added Member To Class: ClassName=Sheet2 Member=Component LED2 SIP2
+Added Room: Name=Sheet2

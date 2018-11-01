@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=M7 Pin=J2-25
+Removed Pin From Net: NetName=M7 Pin=J2-26
+Removed Pin From Net: NetName=M6 Pin=W1-5
+Added Room: Name=XS128
+Removed Pin From Net: NetName=K7 Pin=J2-6
+Added Pin To Net: NetName=N Pin=J2-6
+Removed Pin From Net: NetName=A1 Pin=LCD1-4
+Added Pin To Net: NetName=K1 Pin=LCD1-4
+Removed Pin From Net: NetName=A0 Pin=LCD1-6
+Added Pin To Net: NetName=K4 Pin=LCD1-6
+Removed Pin From Net: NetName=A1 Pin=LCD2-4
+Added Pin To Net: NetName=K1 Pin=LCD2-4
+Removed Pin From Net: NetName=A0 Pin=LCD2-6
+Added Pin To Net: NetName=K4 Pin=LCD2-6

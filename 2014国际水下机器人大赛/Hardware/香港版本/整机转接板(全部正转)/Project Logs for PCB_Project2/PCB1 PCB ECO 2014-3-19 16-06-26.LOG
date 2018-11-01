@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=GND Pin=P3-29
+Added Pin To Net: NetName=GND Pin=P3-30
+Added Pin To Net: NetName=GND Pin=P3-31
+Added Pin To Net: NetName=GND Pin=P3-32
+Added Pin To Net: NetName=GND Pin=P3-33
+Added Pin To Net: NetName=GND Pin=P3-34
+Added Pin To Net: NetName=GND Pin=P3-35
+Added Pin To Net: NetName=GND Pin=P3-36
+Added Pin To Net: NetName=GND Pin=SIP19-1
+Change Net Name : Old Net Name=GND New Net Name=DC24V_4-
+Added Room: Name=Sheet2

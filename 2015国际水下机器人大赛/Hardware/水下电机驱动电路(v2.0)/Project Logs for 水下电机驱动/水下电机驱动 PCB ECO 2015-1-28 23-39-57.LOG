@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U4 Old Footprint=DIP-8 New Footprint=SOIC8
+Added Room: Name=MOS管电机驱动电路
+Added Room: Name=SX1308升压电路

@@ -1,0 +1,37 @@
+void banyun_back_1()          //找到物块，并带回
+
+void banyun_back_2_A()       //黄，找到存放物块，并带回
+
+void banyun_back_2_B()       //蓝，找到存放物块，并带回
+
+void push_A()        //黄，放到相应点
+
+void push_B()        //蓝，放到相应点
+
+void push_back()     //放到相应点后,回中
+
+void zuoz_45()
+
+void zuoz_45_banyun()
+
+void zuoz_90()
+
+void zuoz_90_banyun()
+
+void zuoz_135()
+
+void zuoz_135_banyun()
+
+void youz_45()
+
+void youz_45_banyun()
+
+void youz_90()
+
+void youz_90_banyun()
+
+void youz_135()
+
+void youz_135_banyun()
+
+void zhuan_180()

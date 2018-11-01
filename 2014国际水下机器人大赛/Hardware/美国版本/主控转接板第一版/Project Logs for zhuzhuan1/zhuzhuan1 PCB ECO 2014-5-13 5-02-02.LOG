@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DUO2 Pin=U2-74
+Removed Pin From Net: NetName=DUO1 Pin=U2-75
+Added Pin To Net: NetName=DUO1 Pin=U2-74
+Added Pin To Net: NetName=DUO2 Pin=U2-75
+Added Room: Name=zhuzhuan1

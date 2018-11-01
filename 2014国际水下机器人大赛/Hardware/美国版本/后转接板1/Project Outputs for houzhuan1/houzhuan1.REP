@@ -1,0 +1,29 @@
+*************************************************************
+FileName = houzhuan1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : houzhuan1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : houzhuan1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+

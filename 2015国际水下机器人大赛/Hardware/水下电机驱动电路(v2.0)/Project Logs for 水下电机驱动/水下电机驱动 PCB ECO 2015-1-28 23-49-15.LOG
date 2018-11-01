@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OUT1A Pin=P1-1
+Removed Pin From Net: NetName=OUT1B Pin=P1-2
+Removed Pin From Net: NetName=OUT2A Pin=P2-1
+Removed Pin From Net: NetName=OUT2B Pin=P2-2
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=P1
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=P2

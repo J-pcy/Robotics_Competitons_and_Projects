@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[qudongwaike.GKO]
+   Generated File[qudongwaike.RUL]
+   Generated File[qudongwaike.EXTREP]
+   Generated File[qudongwaike.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:15:29 On 2014/5/8

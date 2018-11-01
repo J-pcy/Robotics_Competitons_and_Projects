@@ -1,0 +1,19 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for PCB1.cam'
+at 09:57:07 on 17-Apr-2013
+
+
+'NC Drill Output 1'
+'PCB1.TXT' generated
+'PCB1.DRL' generated
+'PCB1.DRR' generated
+
+'Gerber Output 1'
+'PCB1.GTL' generated
+'PCB1.GKO' generated
+'PCB1.GD1' generated
+'PCB1.GG1' generated
+'PCB1.REP' generated
+
+
+Total number of generated files = 8

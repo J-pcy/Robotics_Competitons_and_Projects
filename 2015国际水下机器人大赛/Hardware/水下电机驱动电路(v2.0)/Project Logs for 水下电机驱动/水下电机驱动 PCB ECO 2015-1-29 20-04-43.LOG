@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=OUT1B Pin=LED1-2
+Removed Pin From Net: NetName=OUT1B Pin=LED3-1
+Removed Pin From Net: NetName=OUT2B Pin=LED4-2
+Removed Pin From Net: NetName=OUT2B Pin=LED5-1
+Removed Pin From Net: NetName=OUT1A Pin=R32-1
+Removed Pin From Net: NetName=OUT2A Pin=R33-2
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=LED1
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=LED3
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=LED4
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=LED5
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=R32
+Removed Member From Class: ClassName=MOS管电机驱动电路 Member=R33

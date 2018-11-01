@@ -1,0 +1,19 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for PCB12.cam'
+at 11:18:17 on 4-May-2013 
+
+
+'NC Drill Output 1'
+'PCB12.TXT' generated
+'PCB12.DRL' generated
+'PCB12.DRR' generated
+
+'Gerber Output 1'
+'PCB12.GTL' generated
+'PCB12.GKO' generated
+'PCB12.GD1' generated
+'PCB12.GG1' generated
+'PCB12.REP' generated
+
+
+Total number of generated files = 8

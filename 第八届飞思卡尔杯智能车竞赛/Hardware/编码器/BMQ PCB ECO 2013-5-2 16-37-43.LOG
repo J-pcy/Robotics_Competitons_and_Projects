@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=PT7 Pin=P1-3
+Removed Pin From Net: NetName=PAX Pin=P1-4
+Removed Pin From Net: NetName=L Pin=P1-5
+Removed Pin From Net: NetName=R Pin=P1-6
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Added Component: Designator=P?(HDR1X4)
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=PT7 Pin=P?-3
+Added Pin To Net: NetName=PAX Pin=P?-4
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 4
+Added Room: Name=Sheet1

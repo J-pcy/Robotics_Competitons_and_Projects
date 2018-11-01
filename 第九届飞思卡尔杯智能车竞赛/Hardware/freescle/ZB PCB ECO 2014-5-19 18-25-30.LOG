@@ -1,0 +1,9 @@
+Added Room: Name=ZB
+Removed Pin From Net: NetName=DVCC Pin=IC1-1
+Added Pin To Net: NetName=DGND Pin=IC1-1
+Removed Pin From Net: NetName=NetD0_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC3_1 Pin=IC1-2
+Removed Pin From Net: NetName=NetC3_1 Pin=IC1-4
+Added Pin To Net: NetName=NetD0_2 Pin=IC1-4
+Removed Pin From Net: NetName=DGND Pin=IC1-5
+Added Pin To Net: NetName=DVCC Pin=IC1-5

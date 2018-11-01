@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SIP15 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=SIP17 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=SIP20 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Change Component Footprint: Designator=SIP21 Old Footprint=SIP3 New Footprint=SIP3-3MM
+Added Room: Name=zhuzhuan1

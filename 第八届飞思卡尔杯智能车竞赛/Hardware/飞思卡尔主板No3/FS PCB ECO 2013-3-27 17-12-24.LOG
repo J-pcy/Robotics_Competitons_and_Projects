@@ -1,0 +1,11 @@
+Added Component: Designator=P13(HDR1X3)
+Added Component: Designator=P14(HDR1X3)
+Added Pin To Net: NetName=5V Pin=P13-1
+Added Pin To Net: NetName=5V Pin=P13-2
+Added Pin To Net: NetName=5V Pin=P13-3
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Member To Class: ClassName=Sheet1 Member=Component P13 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P14 Header 3
+Added Room: Name=Sheet1
